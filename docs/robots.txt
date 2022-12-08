@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://whatamiin.github.io
+
+# Sitemaps
+Sitemap: https://whatamiin.github.io/sitemap.xml
