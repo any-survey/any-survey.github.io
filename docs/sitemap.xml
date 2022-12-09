@@ -5,16 +5,6 @@
   xmlns:xhtml="http://www.w3.org/TR/xhtml11/xhtml11_schema.html">
   <url>
     <loc>https://any-survey.github.io/index.html</loc>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://any-survey.github.io/en/dream-house.html"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://any-survey.github.io/ja/dream-house.html"
-    />
   </url>
   <url>
     <loc>https://any-survey.github.io/ko/dream-house.html</loc>
