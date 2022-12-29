@@ -5,8 +5,19 @@
             https://any-survey.github.io
         </loc>
         <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house/index.html"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/index.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/index.html"/>
+        <lastmod>
+            2022-12-17
+        </lastmod>
+    </url>
+    <url>
+        <loc>
+            https://any-survey.github.io/ko/dream-house
+        </loc>
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dream-house/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house/index.html"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dream-house/index.html"/>
         <lastmod>
             2022-12-09
@@ -16,19 +27,8 @@
         <loc>
             https://any-survey.github.io/en/dream-house
         </loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house/index.html"/>
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dream-house/index.html"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dream-house/index.html"/>
-        <lastmod>
-            2022-12-09
-        </lastmod>
-    </url>
-    <url>
-        <loc>
-            https://any-survey.github.io/ko/dream-house
-        </loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house/index.html"/>
-        <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dream-house/index.html"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dream-house/index.html"/>
         <lastmod>
             2022-12-09
@@ -38,11 +38,44 @@
         <loc>
             https://any-survey.github.io/ja/dream-house
         </loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house/index.html"/>
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dream-house/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house/index.html"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dream-house/index.html"/>
         <lastmod>
             2022-12-09
+        </lastmod>
+    </url>
+    <url>
+        <loc>
+            https://any-survey.github.io/ko/cat-mbti
+        </loc>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/index.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/index.html"/>
+        <lastmod>
+            2022-12-17
+        </lastmod>
+    </url>
+    <url>
+        <loc>
+            https://any-survey.github.io/en/cat-mbti
+        </loc>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/index.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/index.html"/>
+        <lastmod>
+            2022-12-17
+        </lastmod>
+    </url>
+    <url>
+        <loc>
+            https://any-survey.github.io/ja/cat-mbti
+        </loc>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/index.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/index.html"/>
+        <lastmod>
+            2022-12-17
         </lastmod>
     </url>
 </urlset>
