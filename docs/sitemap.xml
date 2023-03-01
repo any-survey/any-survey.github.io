@@ -2,8 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>
-            https://any-survey.github.io
+            https://any-survey.github.io/
         </loc>
+    </url>
+    <url>
+        <loc>
+            https://any-survey.github.io/ko
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://any-survey.github.io/en
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://any-survey.github.io/ja
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://any-survey.github.io/licenses
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://any-survey.github.io/cat-mbti
+        </loc>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/"/>
         <lastmod>
@@ -12,17 +38,13 @@
     </url>
     <url>
         <loc>
-            https://any-survey.github.io/ko/dream-house/
+            https://any-survey.github.io/dream-house/
         </loc>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dream-house/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dream-house/"/>
         <lastmod>
             2022-12-09
         </lastmod>
-    </url>
-    <url>
-        <loc>
-            https://any-survey.github.io/licenses
-        </loc>
     </url>
 </urlset>
