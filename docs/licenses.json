@@ -589,7 +589,7 @@
         "licenseUrl": "https://github.com/sindresorhus/camelcase/raw/master/license",
         "parents": "trendy"
     },
-    "caniuse-lite@1.0.30001427": {
+    "caniuse-lite@1.0.30001481": {
         "licenses": "CC-BY-4.0",
         "repository": "https://github.com/browserslist/caniuse-lite",
         "licenseUrl": "https://github.com/browserslist/caniuse-lite/raw/master/LICENSE",
@@ -1620,7 +1620,7 @@
         "licenseUrl": "https://github.com/samn/json-stable-stringify/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "json5@1.0.1": {
+    "json5@1.0.2": {
         "licenses": "MIT",
         "repository": "https://github.com/json5/json5",
         "licenseUrl": "https://github.com/json5/json5/raw/master/LICENSE.md",
