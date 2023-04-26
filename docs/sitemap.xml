@@ -27,13 +27,13 @@
     </url>
     <url>
         <loc>
-            https://any-survey.github.io/cat-mbti
+            https://any-survey.github.io/zero-waste
         </loc>
-        <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/zero-waste"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/zero-waste"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/zero-waste"/>
         <lastmod>
-            2022-12-17
+            2023-04-27
         </lastmod>
     </url>
     <url>
@@ -45,6 +45,17 @@
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dream-house"/>
         <lastmod>
             2022-12-09
+        </lastmod>
+    </url>
+    <url>
+        <loc>
+            https://any-survey.github.io/cat-mbti
+        </loc>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti"/>
+        <lastmod>
+            2022-12-17
         </lastmod>
     </url>
 </urlset>
