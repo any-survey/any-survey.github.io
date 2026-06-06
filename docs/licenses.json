@@ -1,8 +1,4 @@
 {
-    "@": {
-        "licenses": "UNKNOWN",
-        "parents": "UNDEFINED"
-    },
     "@babel/code-frame@7.18.6": {
         "licenses": "MIT",
         "repository": "https://github.com/babel/babel",
@@ -21,118 +17,112 @@
         "licenseUrl": "https://github.com/babel/babel/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "@babel/runtime-corejs3@7.20.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/babel/babel",
-        "licenseUrl": "https://github.com/babel/babel/raw/master/LICENSE",
-        "parents": "trendy"
-    },
-    "@babel/runtime@7.20.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/babel/babel",
-        "licenseUrl": "https://github.com/babel/babel/raw/master/LICENSE",
-        "parents": "trendy"
-    },
-    "@commitlint/cli@17.1.2": {
+    "@commitlint/cli@21.0.2": {
         "licenses": "MIT",
         "repository": "https://github.com/conventional-changelog/commitlint",
         "licenseUrl": "https://github.com/conventional-changelog/commitlint/raw/master/license.md",
         "parents": "trendy"
     },
-    "@commitlint/config-conventional@17.1.0": {
+    "@commitlint/config-conventional@21.0.2": {
         "licenses": "MIT",
         "repository": "https://github.com/conventional-changelog/commitlint",
         "licenseUrl": "https://github.com/conventional-changelog/commitlint/raw/master/license.md",
         "parents": "trendy"
     },
-    "@commitlint/config-validator@17.1.0": {
+    "@commitlint/config-validator@21.0.1": {
         "licenses": "MIT",
         "repository": "https://github.com/conventional-changelog/commitlint",
         "licenseUrl": "https://github.com/conventional-changelog/commitlint/raw/master/license.md",
         "parents": "trendy"
     },
-    "@commitlint/ensure@17.0.0": {
+    "@commitlint/ensure@21.0.1": {
         "licenses": "MIT",
         "repository": "https://github.com/conventional-changelog/commitlint",
         "licenseUrl": "https://github.com/conventional-changelog/commitlint/raw/master/license.md",
         "parents": "trendy"
     },
-    "@commitlint/execute-rule@17.0.0": {
+    "@commitlint/execute-rule@21.0.1": {
         "licenses": "MIT",
         "repository": "https://github.com/conventional-changelog/commitlint",
         "licenseUrl": "https://github.com/conventional-changelog/commitlint/raw/master/license.md",
         "parents": "trendy"
     },
-    "@commitlint/format@17.0.0": {
+    "@commitlint/format@21.0.1": {
         "licenses": "MIT",
         "repository": "https://github.com/conventional-changelog/commitlint",
         "licenseUrl": "https://github.com/conventional-changelog/commitlint/raw/master/license.md",
         "parents": "trendy"
     },
-    "@commitlint/is-ignored@17.1.0": {
+    "@commitlint/is-ignored@21.0.2": {
         "licenses": "MIT",
         "repository": "https://github.com/conventional-changelog/commitlint",
         "licenseUrl": "https://github.com/conventional-changelog/commitlint/raw/master/license.md",
         "parents": "trendy"
     },
-    "@commitlint/lint@17.1.0": {
+    "@commitlint/lint@21.0.2": {
         "licenses": "MIT",
         "repository": "https://github.com/conventional-changelog/commitlint",
         "licenseUrl": "https://github.com/conventional-changelog/commitlint/raw/master/license.md",
         "parents": "trendy"
     },
-    "@commitlint/load@17.1.2": {
+    "@commitlint/load@21.0.2": {
         "licenses": "MIT",
         "repository": "https://github.com/conventional-changelog/commitlint",
         "licenseUrl": "https://github.com/conventional-changelog/commitlint/raw/master/license.md",
         "parents": "trendy"
     },
-    "@commitlint/message@17.0.0": {
+    "@commitlint/message@21.0.2": {
         "licenses": "MIT",
         "repository": "https://github.com/conventional-changelog/commitlint",
         "licenseUrl": "https://github.com/conventional-changelog/commitlint/raw/master/license.md",
         "parents": "trendy"
     },
-    "@commitlint/parse@17.0.0": {
+    "@commitlint/parse@21.0.2": {
         "licenses": "MIT",
         "repository": "https://github.com/conventional-changelog/commitlint",
         "licenseUrl": "https://github.com/conventional-changelog/commitlint/raw/master/license.md",
         "parents": "trendy"
     },
-    "@commitlint/read@17.1.0": {
+    "@commitlint/read@21.0.2": {
         "licenses": "MIT",
         "repository": "https://github.com/conventional-changelog/commitlint",
         "licenseUrl": "https://github.com/conventional-changelog/commitlint/raw/master/license.md",
         "parents": "trendy"
     },
-    "@commitlint/resolve-extends@17.1.0": {
+    "@commitlint/resolve-extends@21.0.1": {
         "licenses": "MIT",
         "repository": "https://github.com/conventional-changelog/commitlint",
         "licenseUrl": "https://github.com/conventional-changelog/commitlint/raw/master/license.md",
         "parents": "trendy"
     },
-    "@commitlint/rules@17.0.0": {
+    "@commitlint/rules@21.0.2": {
         "licenses": "MIT",
         "repository": "https://github.com/conventional-changelog/commitlint",
         "licenseUrl": "https://github.com/conventional-changelog/commitlint/raw/master/license.md",
         "parents": "trendy"
     },
-    "@commitlint/to-lines@17.0.0": {
+    "@commitlint/to-lines@21.0.1": {
         "licenses": "MIT",
         "repository": "https://github.com/conventional-changelog/commitlint",
         "licenseUrl": "https://github.com/conventional-changelog/commitlint/raw/master/license.md",
         "parents": "trendy"
     },
-    "@commitlint/top-level@17.0.0": {
+    "@commitlint/top-level@21.0.2": {
         "licenses": "MIT",
         "repository": "https://github.com/conventional-changelog/commitlint",
         "licenseUrl": "https://github.com/conventional-changelog/commitlint/raw/master/license.md",
         "parents": "trendy"
     },
-    "@commitlint/types@17.0.0": {
+    "@commitlint/types@21.0.1": {
         "licenses": "MIT",
         "repository": "https://github.com/conventional-changelog/commitlint",
         "licenseUrl": "https://github.com/conventional-changelog/commitlint/raw/master/license.md",
+        "parents": "trendy"
+    },
+    "@conventional-changelog/git-client@2.7.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/conventional-changelog/conventional-changelog",
+        "licenseUrl": "https://github.com/conventional-changelog/conventional-changelog/raw/master/LICENSE.md",
         "parents": "trendy"
     },
     "@cspotcode/source-map-support@0.8.1": {
@@ -141,13 +131,31 @@
         "licenseUrl": "https://github.com/cspotcode/node-source-map-support/raw/master/LICENSE.md",
         "parents": "trendy"
     },
-    "@eslint/eslintrc@1.4.0": {
+    "@eslint-community/eslint-utils@4.9.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/eslint-community/eslint-utils",
+        "licenseUrl": "https://github.com/eslint-community/eslint-utils/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "@eslint-community/regexpp@4.12.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/eslint-community/regexpp",
+        "licenseUrl": "https://github.com/eslint-community/regexpp/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "@eslint/eslintrc@2.1.4": {
         "licenses": "MIT",
         "repository": "https://github.com/eslint/eslintrc",
         "licenseUrl": "https://github.com/eslint/eslintrc/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "@humanwhocodes/config-array@0.11.8": {
+    "@eslint/js@8.57.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/eslint/eslint",
+        "licenseUrl": "https://github.com/eslint/eslint/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "@humanwhocodes/config-array@0.13.0": {
         "licenses": "Apache-2.0",
         "repository": "https://github.com/humanwhocodes/config-array",
         "licenseUrl": "https://github.com/humanwhocodes/config-array/raw/master/LICENSE",
@@ -159,10 +167,40 @@
         "licenseUrl": "https://github.com/humanwhocodes/module-importer/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "@humanwhocodes/object-schema@1.2.1": {
+    "@humanwhocodes/object-schema@2.0.3": {
         "licenses": "BSD-3-Clause",
         "repository": "https://github.com/humanwhocodes/object-schema",
         "licenseUrl": "https://github.com/humanwhocodes/object-schema/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "@img/colour@1.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/lovell/colour",
+        "licenseUrl": "https://github.com/lovell/colour/raw/master/LICENSE.md",
+        "parents": "trendy"
+    },
+    "@img/sharp-libvips-linux-x64@1.2.4": {
+        "licenses": "LGPL-3.0-or-later",
+        "repository": "https://github.com/lovell/sharp-libvips",
+        "licenseUrl": "https://github.com/lovell/sharp-libvips",
+        "parents": "trendy"
+    },
+    "@img/sharp-libvips-linuxmusl-x64@1.2.4": {
+        "licenses": "LGPL-3.0-or-later",
+        "repository": "https://github.com/lovell/sharp-libvips",
+        "licenseUrl": "https://github.com/lovell/sharp-libvips",
+        "parents": "trendy"
+    },
+    "@img/sharp-linux-x64@0.34.5": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/lovell/sharp",
+        "licenseUrl": "https://github.com/lovell/sharp/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "@img/sharp-linuxmusl-x64@0.34.5": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/lovell/sharp",
+        "licenseUrl": "https://github.com/lovell/sharp/raw/master/LICENSE",
         "parents": "trendy"
     },
     "@jridgewell/resolve-uri@3.1.0": {
@@ -183,20 +221,28 @@
         "licenseUrl": "https://github.com/jridgewell/trace-mapping/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "@next/env@13.0.0": {
+    "@next/env@15.5.19": {
         "licenses": "MIT",
         "repository": "https://github.com/vercel/next.js",
         "licenseUrl": "https://github.com/vercel/next.js",
         "parents": "trendy"
     },
-    "@next/eslint-plugin-next@13.0.0": {
+    "@next/eslint-plugin-next@15.5.19": {
         "licenses": "MIT",
         "repository": "https://github.com/vercel/next.js",
         "licenseUrl": "https://github.com/vercel/next.js",
         "parents": "trendy"
     },
-    "@next/swc-darwin-arm64@13.0.0": {
+    "@next/swc-linux-x64-gnu@15.5.19": {
         "licenses": "MIT",
+        "repository": "https://github.com/vercel/next.js",
+        "licenseUrl": "https://github.com/vercel/next.js",
+        "parents": "trendy"
+    },
+    "@next/swc-linux-x64-musl@15.5.19": {
+        "licenses": "MIT",
+        "repository": "https://github.com/vercel/next.js",
+        "licenseUrl": "https://github.com/vercel/next.js",
         "parents": "trendy"
     },
     "@nodelib/fs.scandir@2.1.5": {
@@ -217,16 +263,40 @@
         "licenseUrl": "https://github.com/nodelib/nodelib/tree/master/packages/fs/fs.walk/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "@rushstack/eslint-patch@1.2.0": {
+    "@nolyfill/is-core-module@1.0.39": {
+        "licenses": "MIT",
+        "repository": "https://github.com/SukkaW/nolyfill",
+        "licenseUrl": "https://github.com/SukkaW/nolyfill/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "@rtsao/scc@1.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/rtsao/scc",
+        "licenseUrl": "https://github.com/rtsao/scc/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "@rushstack/eslint-patch@1.16.1": {
         "licenses": "MIT",
         "repository": "https://github.com/microsoft/rushstack",
         "licenseUrl": "https://github.com/microsoft/rushstack/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "@swc/helpers@0.4.11": {
+    "@simple-libs/child-process-utils@1.0.2": {
         "licenses": "MIT",
+        "repository": "https://github.com/TrigenSoftware/simple-libs",
+        "licenseUrl": "https://github.com/TrigenSoftware/simple-libs/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "@simple-libs/stream-utils@1.2.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/TrigenSoftware/simple-libs",
+        "licenseUrl": "https://github.com/TrigenSoftware/simple-libs/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "@swc/helpers@0.5.15": {
+        "licenses": "Apache-2.0",
         "repository": "https://github.com/swc-project/swc",
-        "licenseUrl": "https://github.com/swc-project/swc",
+        "licenseUrl": "https://github.com/swc-project/swc/raw/master/LICENSE",
         "parents": "trendy"
     },
     "@tsconfig/node10@1.0.9": {
@@ -259,34 +329,10 @@
         "licenseUrl": "https://wwwhub.com/DefinitelyTyped/DefinitelyTyped",
         "parents": "trendy"
     },
-    "@types/minimist@1.2.2": {
-        "licenses": "MIT",
-        "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
-        "licenseUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped/raw/master/LICENSE",
-        "parents": "trendy"
-    },
-    "@types/node@14.18.33": {
-        "licenses": "MIT",
-        "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
-        "licenseUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped/raw/master/LICENSE",
-        "parents": "@commitlint/load:trendy"
-    },
     "@types/node@18.11.7": {
         "licenses": "MIT",
         "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
         "licenseUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped/raw/master/LICENSE",
-        "parents": "trendy"
-    },
-    "@types/normalize-package-data@2.4.1": {
-        "licenses": "MIT",
-        "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
-        "licenseUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped/raw/master/LICENSE",
-        "parents": "trendy"
-    },
-    "@types/parse-json@4.0.0": {
-        "licenses": "MIT",
-        "repository": "https://wwwhub.com/DefinitelyTyped/DefinitelyTyped",
-        "licenseUrl": "https://wwwhub.com/DefinitelyTyped/DefinitelyTyped",
         "parents": "trendy"
     },
     "@types/prettier@2.7.1": {
@@ -295,64 +341,94 @@
         "licenseUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "@types/prop-types@15.7.5": {
+    "@types/react-dom@19.2.3": {
         "licenses": "MIT",
         "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
         "licenseUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "@types/react-dom@18.0.8": {
+    "@types/react@19.2.17": {
         "licenses": "MIT",
         "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
         "licenseUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "@types/react@18.0.24": {
-        "licenses": "MIT",
-        "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
-        "licenseUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped/raw/master/LICENSE",
-        "parents": "trendy"
-    },
-    "@types/scheduler@0.16.2": {
-        "licenses": "MIT",
-        "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
-        "licenseUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped/raw/master/LICENSE",
-        "parents": "trendy"
-    },
-    "@typescript-eslint/parser@5.41.0": {
-        "licenses": "BSD-2-Clause",
-        "repository": "https://github.com/typescript-eslint/typescript-eslint",
-        "licenseUrl": "https://github.com/typescript-eslint/typescript-eslint/raw/master/LICENSE",
-        "parents": "trendy"
-    },
-    "@typescript-eslint/scope-manager@5.41.0": {
+    "@typescript-eslint/eslint-plugin@8.60.1": {
         "licenses": "MIT",
         "repository": "https://github.com/typescript-eslint/typescript-eslint",
         "licenseUrl": "https://github.com/typescript-eslint/typescript-eslint/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "@typescript-eslint/types@5.41.0": {
+    "@typescript-eslint/parser@8.60.1": {
         "licenses": "MIT",
         "repository": "https://github.com/typescript-eslint/typescript-eslint",
         "licenseUrl": "https://github.com/typescript-eslint/typescript-eslint/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "@typescript-eslint/typescript-estree@5.41.0": {
-        "licenses": "BSD-2-Clause",
-        "repository": "https://github.com/typescript-eslint/typescript-eslint",
-        "licenseUrl": "https://github.com/typescript-eslint/typescript-eslint/raw/master/LICENSE",
-        "parents": "trendy"
-    },
-    "@typescript-eslint/visitor-keys@5.41.0": {
+    "@typescript-eslint/project-service@8.60.1": {
         "licenses": "MIT",
         "repository": "https://github.com/typescript-eslint/typescript-eslint",
         "licenseUrl": "https://github.com/typescript-eslint/typescript-eslint/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "JSONStream@1.3.5": {
-        "licenses": "(MIT OR Apache-2.0)",
-        "repository": "https://github.com/dominictarr/JSONStream",
-        "licenseUrl": "https://github.com/dominictarr/JSONStream/raw/master/LICENSE.APACHE2",
+    "@typescript-eslint/scope-manager@8.60.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/typescript-eslint/typescript-eslint",
+        "licenseUrl": "https://github.com/typescript-eslint/typescript-eslint/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "@typescript-eslint/tsconfig-utils@8.60.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/typescript-eslint/typescript-eslint",
+        "licenseUrl": "https://github.com/typescript-eslint/typescript-eslint/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "@typescript-eslint/type-utils@8.60.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/typescript-eslint/typescript-eslint",
+        "licenseUrl": "https://github.com/typescript-eslint/typescript-eslint/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "@typescript-eslint/types@8.60.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/typescript-eslint/typescript-eslint",
+        "licenseUrl": "https://github.com/typescript-eslint/typescript-eslint/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "@typescript-eslint/typescript-estree@8.60.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/typescript-eslint/typescript-eslint",
+        "licenseUrl": "https://github.com/typescript-eslint/typescript-eslint/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "@typescript-eslint/utils@8.60.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/typescript-eslint/typescript-eslint",
+        "licenseUrl": "https://github.com/typescript-eslint/typescript-eslint/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "@typescript-eslint/visitor-keys@8.60.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/typescript-eslint/typescript-eslint",
+        "licenseUrl": "https://github.com/typescript-eslint/typescript-eslint/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "@ungap/structured-clone@1.3.1": {
+        "licenses": "ISC",
+        "repository": "https://github.com/ungap/structured-clone",
+        "licenseUrl": "https://github.com/ungap/structured-clone/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "@unrs/resolver-binding-linux-x64-gnu@1.12.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/unrs/unrs-resolver",
+        "licenseUrl": "https://github.com/unrs/unrs-resolver",
+        "parents": "trendy"
+    },
+    "@unrs/resolver-binding-linux-x64-musl@1.12.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/unrs/unrs-resolver",
+        "licenseUrl": "https://github.com/unrs/unrs-resolver",
         "parents": "trendy"
     },
     "abbrev@1.1.1": {
@@ -373,31 +449,31 @@
         "licenseUrl": "https://github.com/acornjs/acorn/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "acorn@8.8.1": {
+    "acorn@8.16.0": {
         "licenses": "MIT",
         "repository": "https://github.com/acornjs/acorn",
         "licenseUrl": "https://github.com/acornjs/acorn/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "aggregate-error@3.1.0": {
+    "acorn@8.8.1": {
         "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/aggregate-error",
-        "licenseUrl": "https://github.com/sindresorhus/aggregate-error/raw/master/license",
-        "parents": "trendy"
+        "repository": "https://github.com/acornjs/acorn",
+        "licenseUrl": "https://github.com/acornjs/acorn/raw/master/LICENSE",
+        "parents": "ts-node:trendy"
     },
-    "ajv@6.12.6": {
+    "ajv@6.15.0": {
         "licenses": "MIT",
         "repository": "https://github.com/ajv-validator/ajv",
         "licenseUrl": "https://github.com/ajv-validator/ajv/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "ajv@8.11.0": {
+    "ajv@8.20.0": {
         "licenses": "MIT",
         "repository": "https://github.com/ajv-validator/ajv",
         "licenseUrl": "https://github.com/ajv-validator/ajv/raw/master/LICENSE",
         "parents": "@commitlint/config-validator:trendy"
     },
-    "ansi-escapes@4.3.2": {
+    "ansi-escapes@7.3.0": {
         "licenses": "MIT",
         "repository": "https://github.com/sindresorhus/ansi-escapes",
         "licenseUrl": "https://github.com/sindresorhus/ansi-escapes/raw/master/license",
@@ -413,13 +489,13 @@
         "licenses": "MIT",
         "repository": "https://github.com/chalk/ansi-regex",
         "licenseUrl": "https://github.com/chalk/ansi-regex/raw/master/license",
-        "parents": "strip-ansi:trendy"
+        "parents": "eslint:trendy"
     },
-    "ansi-regex@6.0.1": {
+    "ansi-regex@6.2.2": {
         "licenses": "MIT",
         "repository": "https://github.com/chalk/ansi-regex",
         "licenseUrl": "https://github.com/chalk/ansi-regex/raw/master/license",
-        "parents": "cli-truncate:trendy"
+        "parents": "strip-ansi:trendy"
     },
     "ansi-styles@1.1.0": {
         "licenses": "MIT",
@@ -431,19 +507,25 @@
         "licenses": "MIT",
         "repository": "https://github.com/chalk/ansi-styles",
         "licenseUrl": "https://github.com/chalk/ansi-styles/raw/master/license",
-        "parents": "@babel/highlight:trendy"
+        "parents": "chalk:trendy"
     },
     "ansi-styles@4.3.0": {
         "licenses": "MIT",
         "repository": "https://github.com/chalk/ansi-styles",
         "licenseUrl": "https://github.com/chalk/ansi-styles/raw/master/license",
-        "parents": "trendy"
+        "parents": "eslint:trendy"
     },
     "ansi-styles@6.2.1": {
         "licenses": "MIT",
         "repository": "https://github.com/chalk/ansi-styles",
         "licenseUrl": "https://github.com/chalk/ansi-styles/raw/master/license",
         "parents": "slice-ansi:trendy"
+    },
+    "ansi-styles@6.2.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/chalk/ansi-styles",
+        "licenseUrl": "https://github.com/chalk/ansi-styles/raw/master/license",
+        "parents": "trendy"
     },
     "anymatch@3.1.2": {
         "licenses": "ISC",
@@ -463,10 +545,16 @@
         "licenseUrl": "https://github.com/nodeca/argparse/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "aria-query@4.2.2": {
+    "aria-query@5.3.2": {
         "licenses": "Apache-2.0",
         "repository": "https://github.com/A11yance/aria-query",
         "licenseUrl": "https://github.com/A11yance/aria-query/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "array-buffer-byte-length@1.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/array-buffer-byte-length",
+        "licenseUrl": "https://github.com/inspect-js/array-buffer-byte-length/raw/master/LICENSE",
         "parents": "trendy"
     },
     "array-ify@1.0.0": {
@@ -479,30 +567,48 @@
         "licenses": "MIT",
         "repository": "https://github.com/es-shims/array-includes",
         "licenseUrl": "https://github.com/es-shims/array-includes/raw/master/LICENSE",
-        "parents": "trendy"
+        "parents": "jsx-ast-utils:trendy"
     },
-    "array-union@2.1.0": {
+    "array-includes@3.1.9": {
         "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/array-union",
-        "licenseUrl": "https://github.com/sindresorhus/array-union/raw/master/license",
+        "repository": "https://github.com/es-shims/array-includes",
+        "licenseUrl": "https://github.com/es-shims/array-includes/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "array.prototype.flat@1.3.0": {
+    "array.prototype.findlast@1.2.5": {
+        "licenses": "MIT",
+        "repository": "https://github.com/es-shims/Array.prototype.findLast",
+        "licenseUrl": "https://github.com/es-shims/Array.prototype.findLast/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "array.prototype.findlastindex@1.2.6": {
+        "licenses": "MIT",
+        "repository": "https://github.com/es-shims/Array.prototype.findLastIndex",
+        "licenseUrl": "https://github.com/es-shims/Array.prototype.findLastIndex/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "array.prototype.flat@1.3.3": {
         "licenses": "MIT",
         "repository": "https://github.com/es-shims/Array.prototype.flat",
         "licenseUrl": "https://github.com/es-shims/Array.prototype.flat/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "array.prototype.flatmap@1.3.0": {
+    "array.prototype.flatmap@1.3.3": {
         "licenses": "MIT",
         "repository": "https://github.com/es-shims/Array.prototype.flatMap",
         "licenseUrl": "https://github.com/es-shims/Array.prototype.flatMap/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "arrify@1.0.1": {
+    "array.prototype.tosorted@1.1.4": {
         "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/arrify",
-        "licenseUrl": "https://github.com/sindresorhus/arrify/raw/master/license",
+        "repository": "https://github.com/es-shims/Array.prototype.toSorted",
+        "licenseUrl": "https://github.com/es-shims/Array.prototype.toSorted/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "arraybuffer.prototype.slice@1.0.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/es-shims/ArrayBuffer.prototype.slice",
+        "licenseUrl": "https://github.com/es-shims/ArrayBuffer.prototype.slice/raw/master/LICENSE",
         "parents": "trendy"
     },
     "asap@2.0.6": {
@@ -511,16 +617,16 @@
         "licenseUrl": "https://github.com/kriskowal/asap/raw/master/LICENSE.md",
         "parents": "trendy"
     },
-    "ast-types-flow@0.0.7": {
-        "licenses": "ISC",
+    "ast-types-flow@0.0.8": {
+        "licenses": "MIT",
         "repository": "https://github.com/kyldvs/ast-types-flow",
-        "licenseUrl": "https://github.com/kyldvs/ast-types-flow",
+        "licenseUrl": "https://github.com/kyldvs/ast-types-flow/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "astral-regex@2.0.0": {
+    "async-function@1.0.0": {
         "licenses": "MIT",
-        "repository": "https://github.com/kevva/astral-regex",
-        "licenseUrl": "https://github.com/kevva/astral-regex/raw/master/license",
+        "repository": "https://github.com/ljharb/async-function",
+        "licenseUrl": "https://github.com/ljharb/async-function/raw/master/LICENSE",
         "parents": "trendy"
     },
     "async@2.6.4": {
@@ -529,13 +635,19 @@
         "licenseUrl": "https://github.com/caolan/async/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "axe-core@4.5.0": {
+    "available-typed-arrays@1.0.7": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/available-typed-arrays",
+        "licenseUrl": "https://github.com/inspect-js/available-typed-arrays/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "axe-core@4.12.0": {
         "licenses": "MPL-2.0",
         "repository": "https://github.com/dequelabs/axe-core",
         "licenseUrl": "https://github.com/dequelabs/axe-core/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "axobject-query@2.2.0": {
+    "axobject-query@4.1.0": {
         "licenses": "Apache-2.0",
         "repository": "https://github.com/A11yance/axobject-query",
         "licenseUrl": "https://github.com/A11yance/axobject-query/raw/master/LICENSE",
@@ -553,22 +665,40 @@
         "licenseUrl": "https://github.com/sindresorhus/binary-extensions/raw/master/license",
         "parents": "trendy"
     },
-    "brace-expansion@1.1.11": {
+    "brace-expansion@2.1.1": {
         "licenses": "MIT",
         "repository": "https://github.com/juliangruber/brace-expansion",
         "licenseUrl": "https://github.com/juliangruber/brace-expansion/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "braces@3.0.2": {
+    "braces@3.0.3": {
         "licenses": "MIT",
         "repository": "https://github.com/micromatch/braces",
         "licenseUrl": "https://github.com/micromatch/braces/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "call-bind-apply-helpers@1.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/call-bind-apply-helpers",
+        "licenseUrl": "https://github.com/ljharb/call-bind-apply-helpers/raw/master/LICENSE",
         "parents": "trendy"
     },
     "call-bind@1.0.2": {
         "licenses": "MIT",
         "repository": "https://github.com/ljharb/call-bind",
         "licenseUrl": "https://github.com/ljharb/call-bind/raw/master/LICENSE",
+        "parents": "is-weakref:trendy"
+    },
+    "call-bind@1.0.9": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/call-bind",
+        "licenseUrl": "https://github.com/ljharb/call-bind/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "call-bound@1.0.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/call-bound",
+        "licenseUrl": "https://github.com/ljharb/call-bound/raw/master/LICENSE",
         "parents": "trendy"
     },
     "callsites@3.1.0": {
@@ -577,19 +707,7 @@
         "licenseUrl": "https://github.com/sindresorhus/callsites/raw/master/license",
         "parents": "trendy"
     },
-    "camelcase-keys@6.2.2": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/camelcase-keys",
-        "licenseUrl": "https://github.com/sindresorhus/camelcase-keys/raw/master/license",
-        "parents": "trendy"
-    },
-    "camelcase@5.3.1": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/camelcase",
-        "licenseUrl": "https://github.com/sindresorhus/camelcase/raw/master/license",
-        "parents": "trendy"
-    },
-    "caniuse-lite@1.0.30001481": {
+    "caniuse-lite@1.0.30001797": {
         "licenses": "CC-BY-4.0",
         "repository": "https://github.com/browserslist/caniuse-lite",
         "licenseUrl": "https://github.com/browserslist/caniuse-lite/raw/master/LICENSE",
@@ -605,13 +723,19 @@
         "licenses": "MIT",
         "repository": "https://github.com/chalk/chalk",
         "licenseUrl": "https://github.com/chalk/chalk/raw/master/license",
-        "parents": "@babel/highlight:trendy"
+        "parents": "trendy"
     },
     "chalk@4.1.2": {
         "licenses": "MIT",
         "repository": "https://github.com/chalk/chalk",
         "licenseUrl": "https://github.com/chalk/chalk/raw/master/license",
-        "parents": "trendy"
+        "parents": "eslint:trendy"
+    },
+    "chalk@5.6.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/chalk/chalk",
+        "licenseUrl": "https://github.com/chalk/chalk/raw/master/license",
+        "parents": "lint-staged:trendy"
     },
     "chokidar@3.5.3": {
         "licenses": "MIT",
@@ -619,25 +743,13 @@
         "licenseUrl": "https://github.com/paulmillr/chokidar/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "clean-stack@2.2.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/clean-stack",
-        "licenseUrl": "https://github.com/sindresorhus/clean-stack/raw/master/license",
-        "parents": "trendy"
-    },
-    "cli-cursor@3.1.0": {
+    "cli-cursor@5.0.0": {
         "licenses": "MIT",
         "repository": "https://github.com/sindresorhus/cli-cursor",
         "licenseUrl": "https://github.com/sindresorhus/cli-cursor/raw/master/license",
         "parents": "trendy"
     },
-    "cli-truncate@2.1.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/cli-truncate",
-        "licenseUrl": "https://github.com/sindresorhus/cli-truncate/raw/master/license",
-        "parents": "listr2:trendy"
-    },
-    "cli-truncate@3.1.0": {
+    "cli-truncate@4.0.0": {
         "licenses": "MIT",
         "repository": "https://github.com/sindresorhus/cli-truncate",
         "licenseUrl": "https://github.com/sindresorhus/cli-truncate/raw/master/license",
@@ -648,7 +760,7 @@
         "licenseUrl": "https://reactjs.org/",
         "parents": "trendy"
     },
-    "cliui@8.0.1": {
+    "cliui@9.0.1": {
         "licenses": "ISC",
         "repository": "https://github.com/yargs/cliui",
         "licenseUrl": "https://github.com/yargs/cliui/raw/master/LICENSE.txt",
@@ -658,33 +770,33 @@
         "licenses": "MIT",
         "repository": "https://github.com/Qix-/color-convert",
         "licenseUrl": "https://github.com/Qix-/color-convert/raw/master/LICENSE",
-        "parents": "@babel/highlight:trendy"
+        "parents": "trendy"
     },
     "color-convert@2.0.1": {
         "licenses": "MIT",
         "repository": "https://github.com/Qix-/color-convert",
         "licenseUrl": "https://github.com/Qix-/color-convert/raw/master/LICENSE",
-        "parents": "trendy"
+        "parents": "eslint:trendy"
     },
     "color-name@1.1.3": {
         "licenses": "MIT",
         "repository": "https://github.com/dfcreative/color-name",
         "licenseUrl": "https://github.com/dfcreative/color-name/raw/master/LICENSE",
-        "parents": "@babel/highlight:trendy"
+        "parents": "trendy"
     },
     "color-name@1.1.4": {
         "licenses": "MIT",
         "repository": "https://github.com/colorjs/color-name",
         "licenseUrl": "https://github.com/colorjs/color-name/raw/master/LICENSE",
-        "parents": "trendy"
+        "parents": "eslint:trendy"
     },
-    "colorette@2.0.19": {
+    "colorette@2.0.20": {
         "licenses": "MIT",
         "repository": "https://github.com/jorgebucaran/colorette",
         "licenseUrl": "https://github.com/jorgebucaran/colorette/raw/master/LICENSE.md",
         "parents": "trendy"
     },
-    "commander@9.4.1": {
+    "commander@13.1.0": {
         "licenses": "MIT",
         "repository": "https://github.com/tj/commander.js",
         "licenseUrl": "https://github.com/tj/commander.js/raw/master/LICENSE",
@@ -696,46 +808,34 @@
         "licenseUrl": "https://github.com/stevemao/compare-func/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "concat-map@0.0.1": {
-        "licenses": "MIT",
-        "repository": "https://github.com/substack/node-concat-map",
-        "licenseUrl": "https://github.com/substack/node-concat-map/raw/master/LICENSE",
-        "parents": "trendy"
-    },
-    "conventional-changelog-angular@5.0.13": {
+    "conventional-changelog-angular@8.3.1": {
         "licenses": "ISC",
         "repository": "https://github.com/conventional-changelog/conventional-changelog",
         "licenseUrl": "https://github.com/conventional-changelog/conventional-changelog/raw/master/LICENSE.md",
         "parents": "trendy"
     },
-    "conventional-changelog-conventionalcommits@5.0.0": {
+    "conventional-changelog-conventionalcommits@9.3.1": {
         "licenses": "ISC",
         "repository": "https://github.com/conventional-changelog/conventional-changelog",
         "licenseUrl": "https://github.com/conventional-changelog/conventional-changelog/raw/master/LICENSE.md",
         "parents": "trendy"
     },
-    "conventional-commits-parser@3.2.4": {
+    "conventional-commits-parser@6.4.0": {
         "licenses": "MIT",
         "repository": "https://github.com/conventional-changelog/conventional-changelog",
         "licenseUrl": "https://github.com/conventional-changelog/conventional-changelog/raw/master/LICENSE.md",
         "parents": "trendy"
     },
-    "core-js-pure@3.26.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/zloirock/core-js",
-        "licenseUrl": "https://github.com/zloirock/core-js/raw/master/LICENSE",
-        "parents": "trendy"
-    },
-    "cosmiconfig-typescript-loader@4.1.1": {
+    "cosmiconfig-typescript-loader@6.3.0": {
         "licenses": "MIT",
         "repository": "https://github.com/Codex-/cosmiconfig-typescript-loader",
         "licenseUrl": "https://github.com/Codex-/cosmiconfig-typescript-loader/raw/master/LICENCE",
-        "parents": "@commitlint/load:trendy"
+        "parents": "trendy"
     },
-    "cosmiconfig@7.0.1": {
+    "cosmiconfig@9.0.1": {
         "licenses": "MIT",
-        "repository": "https://github.com/davidtheclark/cosmiconfig",
-        "licenseUrl": "https://github.com/davidtheclark/cosmiconfig/raw/master/LICENSE",
+        "repository": "https://github.com/cosmiconfig/cosmiconfig",
+        "licenseUrl": "https://github.com/cosmiconfig/cosmiconfig/raw/master/LICENSE",
         "parents": "trendy"
     },
     "create-require@1.1.1": {
@@ -744,13 +844,13 @@
         "licenseUrl": "https://github.com/nuxt-contrib/create-require/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "cross-spawn@7.0.3": {
+    "cross-spawn@7.0.6": {
         "licenses": "MIT",
         "repository": "https://github.com/moxystudio/node-cross-spawn",
         "licenseUrl": "https://github.com/moxystudio/node-cross-spawn/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "csstype@3.1.1": {
+    "csstype@3.2.3": {
         "licenses": "MIT",
         "repository": "https://github.com/frenic/csstype",
         "licenseUrl": "https://github.com/frenic/csstype/raw/master/LICENSE",
@@ -762,17 +862,23 @@
         "licenseUrl": "https://github.com/tad-lispy/node-damerau-levenshtein/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "dargs@7.0.0": {
+    "data-view-buffer@1.0.2": {
         "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/dargs",
-        "licenseUrl": "https://github.com/sindresorhus/dargs/raw/master/license",
+        "repository": "https://github.com/inspect-js/data-view-buffer",
+        "licenseUrl": "https://github.com/inspect-js/data-view-buffer/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "debug@2.6.9": {
+    "data-view-byte-length@1.0.2": {
         "licenses": "MIT",
-        "repository": "https://github.com/visionmedia/debug",
-        "licenseUrl": "https://github.com/visionmedia/debug/raw/master/LICENSE",
-        "parents": "eslint-plugin-import:trendy"
+        "repository": "https://github.com/inspect-js/data-view-byte-length",
+        "licenseUrl": "https://github.com/inspect-js/data-view-byte-length/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "data-view-byte-offset@1.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/data-view-byte-offset",
+        "licenseUrl": "https://github.com/inspect-js/data-view-byte-offset/raw/master/LICENSE",
+        "parents": "trendy"
     },
     "debug@3.2.7": {
         "licenses": "MIT",
@@ -784,6 +890,12 @@
         "licenses": "MIT",
         "repository": "https://github.com/debug-js/debug",
         "licenseUrl": "https://github.com/debug-js/debug/raw/master/LICENSE",
+        "parents": "@eslint/eslintrc:trendy"
+    },
+    "debug@4.4.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/debug-js/debug",
+        "licenseUrl": "https://github.com/debug-js/debug/raw/master/LICENSE",
         "parents": "trendy"
     },
     "debuglog@1.0.1": {
@@ -792,28 +904,34 @@
         "licenseUrl": "https://github.com/sam-github/node-debuglog/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "decamelize-keys@1.1.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/dsblv/decamelize-keys",
-        "licenseUrl": "https://github.com/dsblv/decamelize-keys/raw/master/license",
-        "parents": "trendy"
-    },
-    "decamelize@1.2.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/decamelize",
-        "licenseUrl": "https://github.com/sindresorhus/decamelize/raw/master/license",
-        "parents": "trendy"
-    },
     "deep-is@0.1.4": {
         "licenses": "MIT",
         "repository": "http://github.com/thlorenz/deep-is",
         "licenseUrl": "http://github.com/thlorenz/deep-is/raw/master/LICENSE",
         "parents": "trendy"
     },
+    "define-data-property@1.1.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/define-data-property",
+        "licenseUrl": "https://github.com/ljharb/define-data-property/raw/master/LICENSE",
+        "parents": "trendy"
+    },
     "define-properties@1.1.4": {
         "licenses": "MIT",
         "repository": "https://github.com/ljharb/define-properties",
         "licenseUrl": "https://github.com/ljharb/define-properties/raw/master/LICENSE",
+        "parents": "object.assign:trendy"
+    },
+    "define-properties@1.2.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/define-properties",
+        "licenseUrl": "https://github.com/ljharb/define-properties/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "detect-libc@2.1.2": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/lovell/detect-libc",
+        "licenseUrl": "https://github.com/lovell/detect-libc/raw/master/LICENSE",
         "parents": "trendy"
     },
     "dezalgo@1.0.4": {
@@ -822,16 +940,10 @@
         "licenseUrl": "https://github.com/npm/dezalgo/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "diff@4.0.2": {
+    "diff@4.0.4": {
         "licenses": "BSD-3-Clause",
         "repository": "https://github.com/kpdecker/jsdiff",
         "licenseUrl": "https://github.com/kpdecker/jsdiff/raw/master/LICENSE",
-        "parents": "trendy"
-    },
-    "dir-glob@3.0.1": {
-        "licenses": "MIT",
-        "repository": "https://github.com/kevva/dir-glob",
-        "licenseUrl": "https://github.com/kevva/dir-glob/raw/master/license",
         "parents": "trendy"
     },
     "doctrine@2.1.0": {
@@ -852,13 +964,13 @@
         "licenseUrl": "https://github.com/sindresorhus/dot-prop/raw/master/license",
         "parents": "trendy"
     },
-    "eastasianwidth@0.2.0": {
+    "dunder-proto@1.0.1": {
         "licenses": "MIT",
-        "repository": "https://github.com/komagata/eastasianwidth",
-        "licenseUrl": "https://github.com/komagata/eastasianwidth",
+        "repository": "https://github.com/es-shims/dunder-proto",
+        "licenseUrl": "https://github.com/es-shims/dunder-proto/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "emoji-regex@8.0.0": {
+    "emoji-regex@10.6.0": {
         "licenses": "MIT",
         "repository": "https://github.com/mathiasbynens/emoji-regex",
         "licenseUrl": "https://github.com/mathiasbynens/emoji-regex/raw/master/LICENSE-MIT.txt",
@@ -868,6 +980,18 @@
         "licenses": "MIT",
         "repository": "https://github.com/mathiasbynens/emoji-regex",
         "licenseUrl": "https://github.com/mathiasbynens/emoji-regex/raw/master/LICENSE-MIT.txt",
+        "parents": "trendy"
+    },
+    "env-paths@2.2.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/sindresorhus/env-paths",
+        "licenseUrl": "https://github.com/sindresorhus/env-paths/raw/master/license",
+        "parents": "trendy"
+    },
+    "environment@1.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/sindresorhus/environment",
+        "licenseUrl": "https://github.com/sindresorhus/environment/raw/master/license",
         "parents": "trendy"
     },
     "error-ex@1.3.2": {
@@ -880,9 +1004,45 @@
         "licenses": "MIT",
         "repository": "https://github.com/ljharb/es-abstract",
         "licenseUrl": "https://github.com/ljharb/es-abstract/raw/master/LICENSE",
+        "parents": "jsx-ast-utils:trendy"
+    },
+    "es-abstract@1.24.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/es-abstract",
+        "licenseUrl": "https://github.com/ljharb/es-abstract/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "es-shim-unscopables@1.0.0": {
+    "es-define-property@1.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/es-define-property",
+        "licenseUrl": "https://github.com/ljharb/es-define-property/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "es-errors@1.3.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/es-errors",
+        "licenseUrl": "https://github.com/ljharb/es-errors/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "es-iterator-helpers@1.3.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/es-shims/iterator-helpers",
+        "licenseUrl": "https://github.com/es-shims/iterator-helpers/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "es-object-atoms@1.1.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/es-object-atoms",
+        "licenseUrl": "https://github.com/ljharb/es-object-atoms/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "es-set-tostringtag@2.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/es-shims/es-set-tostringtag",
+        "licenseUrl": "https://github.com/es-shims/es-set-tostringtag/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "es-shim-unscopables@1.1.0": {
         "licenses": "MIT",
         "repository": "https://github.com/ljharb/es-shim-unscopables",
         "licenseUrl": "https://github.com/ljharb/es-shim-unscopables/raw/master/LICENSE",
@@ -892,6 +1052,18 @@
         "licenses": "MIT",
         "repository": "https://github.com/ljharb/es-to-primitive",
         "licenseUrl": "https://github.com/ljharb/es-to-primitive/raw/master/LICENSE",
+        "parents": "jsx-ast-utils:trendy"
+    },
+    "es-to-primitive@1.3.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/es-to-primitive",
+        "licenseUrl": "https://github.com/ljharb/es-to-primitive/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "es-toolkit@1.47.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/toss/es-toolkit",
+        "licenseUrl": "https://github.com/toss/es-toolkit/raw/master/LICENSE",
         "parents": "trendy"
     },
     "escalade@3.1.1": {
@@ -899,6 +1071,12 @@
         "repository": "https://github.com/lukeed/escalade",
         "licenseUrl": "https://github.com/lukeed/escalade/raw/master/license",
         "parents": "trendy"
+    },
+    "escalade@3.2.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/lukeed/escalade",
+        "licenseUrl": "https://github.com/lukeed/escalade/raw/master/license",
+        "parents": "@commitlint/top-level:trendy"
     },
     "escape-string-regexp@1.0.5": {
         "licenses": "MIT",
@@ -912,7 +1090,7 @@
         "licenseUrl": "https://github.com/sindresorhus/escape-string-regexp/raw/master/license",
         "parents": "eslint:trendy"
     },
-    "eslint-config-next@13.0.0": {
+    "eslint-config-next@15.5.19": {
         "licenses": "MIT",
         "repository": "https://github.com/vercel/next.js",
         "licenseUrl": "https://github.com/vercel/next.js",
@@ -924,31 +1102,37 @@
         "licenseUrl": "https://github.com/prettier/eslint-config-prettier/raw/master/LICENSE",
         "parents": "trendy"
     },
+    "eslint-import-resolver-node@0.3.10": {
+        "licenses": "MIT",
+        "repository": "https://github.com/import-js/eslint-plugin-import",
+        "licenseUrl": "https://github.com/import-js/eslint-plugin-import/raw/master/LICENSE",
+        "parents": "eslint-plugin-import:trendy"
+    },
     "eslint-import-resolver-node@0.3.6": {
         "licenses": "MIT",
         "repository": "https://github.com/import-js/eslint-plugin-import",
         "licenseUrl": "https://github.com/import-js/eslint-plugin-import/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "eslint-import-resolver-typescript@2.7.1": {
+    "eslint-import-resolver-typescript@3.10.1": {
         "licenses": "ISC",
-        "repository": "https://github.com/alexgorbatchev/eslint-import-resolver-typescript",
-        "licenseUrl": "https://github.com/alexgorbatchev/eslint-import-resolver-typescript/raw/master/LICENSE",
+        "repository": "https://github.com/import-js/eslint-import-resolver-typescript",
+        "licenseUrl": "https://github.com/import-js/eslint-import-resolver-typescript/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "eslint-module-utils@2.7.4": {
+    "eslint-module-utils@2.13.0": {
         "licenses": "MIT",
         "repository": "https://github.com/import-js/eslint-plugin-import",
         "licenseUrl": "https://github.com/import-js/eslint-plugin-import/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "eslint-plugin-import@2.26.0": {
+    "eslint-plugin-import@2.32.0": {
         "licenses": "MIT",
         "repository": "https://github.com/import-js/eslint-plugin-import",
         "licenseUrl": "https://github.com/import-js/eslint-plugin-import/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "eslint-plugin-jsx-a11y@6.6.1": {
+    "eslint-plugin-jsx-a11y@6.10.2": {
         "licenses": "MIT",
         "repository": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y",
         "licenseUrl": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/raw/master/LICENSE.md",
@@ -960,55 +1144,49 @@
         "licenseUrl": "https://github.com/prettier/eslint-plugin-prettier/raw/master/LICENSE.md",
         "parents": "trendy"
     },
-    "eslint-plugin-react-hooks@4.6.0": {
+    "eslint-plugin-react-hooks@5.2.0": {
         "licenses": "MIT",
         "repository": "https://github.com/facebook/react",
         "licenseUrl": "https://github.com/facebook/react/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "eslint-plugin-react@7.31.10": {
+    "eslint-plugin-react@7.37.5": {
         "licenses": "MIT",
         "repository": "https://github.com/jsx-eslint/eslint-plugin-react",
         "licenseUrl": "https://github.com/jsx-eslint/eslint-plugin-react/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "eslint-scope@7.1.1": {
+    "eslint-scope@7.2.2": {
         "licenses": "BSD-2-Clause",
         "repository": "https://github.com/eslint/eslint-scope",
         "licenseUrl": "https://github.com/eslint/eslint-scope/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "eslint-utils@3.0.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/mysticatea/eslint-utils",
-        "licenseUrl": "https://github.com/mysticatea/eslint-utils/raw/master/LICENSE",
-        "parents": "trendy"
-    },
-    "eslint-visitor-keys@2.1.0": {
-        "licenses": "Apache-2.0",
-        "repository": "https://github.com/eslint/eslint-visitor-keys",
-        "licenseUrl": "https://github.com/eslint/eslint-visitor-keys/raw/master/LICENSE",
-        "parents": "eslint-utils:trendy"
-    },
-    "eslint-visitor-keys@3.3.0": {
+    "eslint-visitor-keys@3.4.3": {
         "licenses": "Apache-2.0",
         "repository": "https://github.com/eslint/eslint-visitor-keys",
         "licenseUrl": "https://github.com/eslint/eslint-visitor-keys/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "eslint@8.26.0": {
+    "eslint-visitor-keys@5.0.1": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/eslint/js",
+        "licenseUrl": "https://github.com/eslint/js/raw/master/LICENSE",
+        "parents": "@typescript-eslint/visitor-keys:trendy"
+    },
+    "eslint@8.57.1": {
         "licenses": "MIT",
         "repository": "https://github.com/eslint/eslint",
         "licenseUrl": "https://github.com/eslint/eslint/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "espree@9.4.0": {
+    "espree@9.6.1": {
         "licenses": "BSD-2-Clause",
         "repository": "https://github.com/eslint/espree",
         "licenseUrl": "https://github.com/eslint/espree/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "esquery@1.4.0": {
+    "esquery@1.7.0": {
         "licenses": "BSD-3-Clause",
         "repository": "https://github.com/estools/esquery",
         "licenseUrl": "https://github.com/estools/esquery/raw/master/license.txt",
@@ -1032,17 +1210,17 @@
         "licenseUrl": "http://github.com/estools/esutils/raw/master/LICENSE.BSD",
         "parents": "trendy"
     },
-    "execa@5.1.1": {
+    "eventemitter3@5.0.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/primus/eventemitter3",
+        "licenseUrl": "https://github.com/primus/eventemitter3/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "execa@8.0.1": {
         "licenses": "MIT",
         "repository": "https://github.com/sindresorhus/execa",
         "licenseUrl": "https://github.com/sindresorhus/execa/raw/master/license",
         "parents": "trendy"
-    },
-    "execa@6.1.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/execa",
-        "licenseUrl": "https://github.com/sindresorhus/execa/raw/master/license",
-        "parents": "lint-staged:trendy"
     },
     "fast-deep-equal@3.1.3": {
         "licenses": "MIT",
@@ -1056,7 +1234,7 @@
         "licenseUrl": "https://github.com/jhchen/fast-diff",
         "parents": "trendy"
     },
-    "fast-glob@3.2.12": {
+    "fast-glob@3.3.1": {
         "licenses": "MIT",
         "repository": "https://github.com/mrmlnc/fast-glob",
         "licenseUrl": "https://github.com/mrmlnc/fast-glob/raw/master/LICENSE",
@@ -1074,11 +1252,23 @@
         "licenseUrl": "https://github.com/hiddentao/fast-levenshtein/raw/master/LICENSE.md",
         "parents": "trendy"
     },
+    "fast-uri@3.1.2": {
+        "licenses": "BSD-3-Clause",
+        "repository": "https://github.com/fastify/fast-uri",
+        "licenseUrl": "https://github.com/fastify/fast-uri/raw/master/LICENSE",
+        "parents": "trendy"
+    },
     "fastq@1.13.0": {
         "licenses": "ISC",
         "repository": "https://github.com/mcollina/fastq",
         "licenseUrl": "https://github.com/mcollina/fastq/raw/master/LICENSE",
         "parents": "trendy"
+    },
+    "fdir@6.5.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/thecodrr/fdir",
+        "licenseUrl": "https://github.com/thecodrr/fdir/raw/master/LICENSE",
+        "parents": "tinyglobby:trendy"
     },
     "file-entry-cache@6.0.1": {
         "licenses": "MIT",
@@ -1086,17 +1276,11 @@
         "licenseUrl": "https://github.com/royriojas/file-entry-cache/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "fill-range@7.0.1": {
+    "fill-range@7.1.1": {
         "licenses": "MIT",
         "repository": "https://github.com/jonschlinkert/fill-range",
         "licenseUrl": "https://github.com/jonschlinkert/fill-range/raw/master/LICENSE",
         "parents": "trendy"
-    },
-    "find-up@4.1.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/find-up",
-        "licenseUrl": "https://github.com/sindresorhus/find-up/raw/master/license",
-        "parents": "read-pkg-up:trendy"
     },
     "find-up@5.0.0": {
         "licenses": "MIT",
@@ -1110,16 +1294,16 @@
         "licenseUrl": "https://github.com/royriojas/flat-cache/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "flatted@3.2.7": {
+    "flatted@3.4.2": {
         "licenses": "ISC",
         "repository": "https://github.com/WebReflection/flatted",
         "licenseUrl": "https://github.com/WebReflection/flatted/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "fs-extra@10.1.0": {
+    "for-each@0.3.5": {
         "licenses": "MIT",
-        "repository": "https://github.com/jprichardson/node-fs-extra",
-        "licenseUrl": "https://github.com/jprichardson/node-fs-extra/raw/master/LICENSE",
+        "repository": "https://github.com/Raynos/for-each",
+        "licenseUrl": "https://github.com/Raynos/for-each/raw/master/LICENSE",
         "parents": "trendy"
     },
     "fs.realpath@1.0.0": {
@@ -1128,19 +1312,25 @@
         "licenseUrl": "https://github.com/isaacs/fs.realpath/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "fsevents@2.3.2": {
-        "licenses": "MIT",
-        "repository": "https://github.com/fsevents/fsevents",
-        "licenseUrl": "https://github.com/fsevents/fsevents/raw/master/LICENSE",
-        "parents": "trendy"
-    },
     "function-bind@1.1.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/Raynos/function-bind",
+        "licenseUrl": "https://github.com/Raynos/function-bind/raw/master/LICENSE",
+        "parents": "has:trendy"
+    },
+    "function-bind@1.1.2": {
         "licenses": "MIT",
         "repository": "https://github.com/Raynos/function-bind",
         "licenseUrl": "https://github.com/Raynos/function-bind/raw/master/LICENSE",
         "parents": "trendy"
     },
     "function.prototype.name@1.1.5": {
+        "licenses": "MIT",
+        "repository": "https://github.com/es-shims/Function.prototype.name",
+        "licenseUrl": "https://github.com/es-shims/Function.prototype.name/raw/master/LICENSE",
+        "parents": "jsx-ast-utils:trendy"
+    },
+    "function.prototype.name@1.1.8": {
         "licenses": "MIT",
         "repository": "https://github.com/es-shims/Function.prototype.name",
         "licenseUrl": "https://github.com/es-shims/Function.prototype.name/raw/master/LICENSE",
@@ -1152,19 +1342,43 @@
         "licenseUrl": "https://github.com/inspect-js/functions-have-names/raw/master/LICENSE",
         "parents": "trendy"
     },
+    "generator-function@2.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/TimothyGu/generator-function",
+        "licenseUrl": "https://github.com/TimothyGu/generator-function/raw/master/LICENSE.md",
+        "parents": "trendy"
+    },
     "get-caller-file@2.0.5": {
         "licenses": "ISC",
         "repository": "https://github.com/stefanpenner/get-caller-file",
         "licenseUrl": "https://github.com/stefanpenner/get-caller-file/raw/master/LICENSE.md",
         "parents": "trendy"
     },
+    "get-east-asian-width@1.6.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/sindresorhus/get-east-asian-width",
+        "licenseUrl": "https://github.com/sindresorhus/get-east-asian-width/raw/master/license",
+        "parents": "trendy"
+    },
     "get-intrinsic@1.1.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/get-intrinsic",
+        "licenseUrl": "https://github.com/ljharb/get-intrinsic/raw/master/LICENSE",
+        "parents": "define-properties:trendy"
+    },
+    "get-intrinsic@1.3.0": {
         "licenses": "MIT",
         "repository": "https://github.com/ljharb/get-intrinsic",
         "licenseUrl": "https://github.com/ljharb/get-intrinsic/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "get-stream@6.0.1": {
+    "get-proto@1.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/get-proto",
+        "licenseUrl": "https://github.com/ljharb/get-proto/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "get-stream@8.0.1": {
         "licenses": "MIT",
         "repository": "https://github.com/sindresorhus/get-stream",
         "licenseUrl": "https://github.com/sindresorhus/get-stream/raw/master/license",
@@ -1174,9 +1388,21 @@
         "licenses": "MIT",
         "repository": "https://github.com/inspect-js/get-symbol-description",
         "licenseUrl": "https://github.com/inspect-js/get-symbol-description/raw/master/LICENSE",
+        "parents": "jsx-ast-utils:trendy"
+    },
+    "get-symbol-description@1.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/get-symbol-description",
+        "licenseUrl": "https://github.com/inspect-js/get-symbol-description/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "git-raw-commits@2.0.11": {
+    "get-tsconfig@4.14.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/privatenumber/get-tsconfig",
+        "licenseUrl": "https://github.com/privatenumber/get-tsconfig/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "git-raw-commits@5.0.1": {
         "licenses": "MIT",
         "repository": "https://github.com/conventional-changelog/conventional-changelog",
         "licenseUrl": "https://github.com/conventional-changelog/conventional-changelog/raw/master/LICENSE.md",
@@ -1210,66 +1436,54 @@
         "licenses": "ISC",
         "repository": "https://github.com/isaacs/node-glob",
         "licenseUrl": "https://github.com/isaacs/node-glob/raw/master/LICENSE",
-        "parents": "read-package-json:trendy"
-    },
-    "glob@7.1.7": {
-        "licenses": "ISC",
-        "repository": "https://github.com/isaacs/node-glob",
-        "licenseUrl": "https://github.com/isaacs/node-glob/raw/master/LICENSE",
-        "parents": "@next/eslint-plugin-next:trendy"
+        "parents": "trendy"
     },
     "glob@7.2.3": {
         "licenses": "ISC",
         "repository": "https://github.com/isaacs/node-glob",
         "licenseUrl": "https://github.com/isaacs/node-glob/raw/master/LICENSE",
-        "parents": "trendy"
+        "parents": "rimraf:trendy"
     },
-    "global-dirs@0.1.1": {
+    "global-directory@5.0.0": {
         "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/global-dirs",
-        "licenseUrl": "https://github.com/sindresorhus/global-dirs/raw/master/license",
-        "parents": "trendy"
-    },
-    "globals@13.17.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/globals",
-        "licenseUrl": "https://github.com/sindresorhus/globals/raw/master/license",
+        "repository": "https://github.com/sindresorhus/global-directory",
+        "licenseUrl": "https://github.com/sindresorhus/global-directory/raw/master/license",
         "parents": "trendy"
     },
     "globals@13.19.0": {
         "licenses": "MIT",
         "repository": "https://github.com/sindresorhus/globals",
         "licenseUrl": "https://github.com/sindresorhus/globals/raw/master/license",
-        "parents": "@eslint/eslintrc:trendy"
+        "parents": "trendy"
     },
-    "globby@11.1.0": {
+    "globalthis@1.0.4": {
         "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/globby",
-        "licenseUrl": "https://github.com/sindresorhus/globby/raw/master/license",
+        "repository": "https://github.com/ljharb/System.global",
+        "licenseUrl": "https://github.com/ljharb/System.global/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "gopd@1.2.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/gopd",
+        "licenseUrl": "https://github.com/ljharb/gopd/raw/master/LICENSE",
         "parents": "trendy"
     },
     "graceful-fs@3.0.12": {
         "licenses": "ISC",
         "repository": "https://github.com/isaacs/node-graceful-fs",
         "licenseUrl": "https://github.com/isaacs/node-graceful-fs/raw/master/LICENSE",
-        "parents": "read-package-json:trendy"
+        "parents": "trendy"
     },
     "graceful-fs@4.2.10": {
         "licenses": "ISC",
         "repository": "https://github.com/isaacs/node-graceful-fs",
         "licenseUrl": "https://github.com/isaacs/node-graceful-fs/raw/master/LICENSE",
-        "parents": "trendy"
+        "parents": "readdir-scoped-modules:trendy"
     },
-    "grapheme-splitter@1.0.4": {
+    "graphemer@1.4.0": {
         "licenses": "MIT",
-        "repository": "https://github.com/orling/grapheme-splitter",
-        "licenseUrl": "https://github.com/orling/grapheme-splitter/raw/master/LICENSE",
-        "parents": "trendy"
-    },
-    "hard-rejection@2.1.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/hard-rejection",
-        "licenseUrl": "https://github.com/sindresorhus/hard-rejection/raw/master/license",
+        "repository": "https://github.com/flmnt/graphemer",
+        "licenseUrl": "https://github.com/flmnt/graphemer/raw/master/LICENSE",
         "parents": "trendy"
     },
     "has-ansi@0.1.0": {
@@ -1288,27 +1502,51 @@
         "licenses": "MIT",
         "repository": "https://github.com/sindresorhus/has-flag",
         "licenseUrl": "https://github.com/sindresorhus/has-flag/raw/master/license",
-        "parents": "@babel/highlight:trendy"
+        "parents": "trendy"
     },
     "has-flag@4.0.0": {
         "licenses": "MIT",
         "repository": "https://github.com/sindresorhus/has-flag",
         "licenseUrl": "https://github.com/sindresorhus/has-flag/raw/master/license",
-        "parents": "trendy"
+        "parents": "eslint:trendy"
     },
     "has-property-descriptors@1.0.0": {
         "licenses": "MIT",
         "repository": "https://github.com/inspect-js/has-property-descriptors",
         "licenseUrl": "https://github.com/inspect-js/has-property-descriptors/raw/master/LICENSE",
+        "parents": "define-properties:trendy"
+    },
+    "has-property-descriptors@1.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/has-property-descriptors",
+        "licenseUrl": "https://github.com/inspect-js/has-property-descriptors/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "has-proto@1.2.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/has-proto",
+        "licenseUrl": "https://github.com/inspect-js/has-proto/raw/master/LICENSE",
         "parents": "trendy"
     },
     "has-symbols@1.0.3": {
         "licenses": "MIT",
         "repository": "https://github.com/inspect-js/has-symbols",
         "licenseUrl": "https://github.com/inspect-js/has-symbols/raw/master/LICENSE",
+        "parents": "define-properties:trendy"
+    },
+    "has-symbols@1.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/has-symbols",
+        "licenseUrl": "https://github.com/inspect-js/has-symbols/raw/master/LICENSE",
         "parents": "trendy"
     },
     "has-tostringtag@1.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/has-tostringtag",
+        "licenseUrl": "https://github.com/inspect-js/has-tostringtag/raw/master/LICENSE",
+        "parents": "jsx-ast-utils:trendy"
+    },
+    "has-tostringtag@1.0.2": {
         "licenses": "MIT",
         "repository": "https://github.com/inspect-js/has-tostringtag",
         "licenseUrl": "https://github.com/inspect-js/has-tostringtag/raw/master/LICENSE",
@@ -1320,29 +1558,17 @@
         "licenseUrl": "https://github.com/tarruda/has/raw/master/LICENSE-MIT",
         "parents": "trendy"
     },
-    "hosted-git-info@2.8.9": {
-        "licenses": "ISC",
-        "repository": "https://github.com/npm/hosted-git-info",
-        "licenseUrl": "https://github.com/npm/hosted-git-info/raw/master/LICENSE",
-        "parents": "read-pkg:trendy"
-    },
-    "hosted-git-info@4.1.0": {
-        "licenses": "ISC",
-        "repository": "https://github.com/npm/hosted-git-info",
-        "licenseUrl": "https://github.com/npm/hosted-git-info/raw/master/LICENSE",
+    "hasown@2.0.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/hasOwn",
+        "licenseUrl": "https://github.com/inspect-js/hasOwn/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "human-signals@2.1.0": {
+    "human-signals@5.0.0": {
         "licenses": "Apache-2.0",
         "repository": "https://github.com/ehmicky/human-signals",
         "licenseUrl": "https://github.com/ehmicky/human-signals/raw/master/LICENSE",
         "parents": "trendy"
-    },
-    "human-signals@3.0.1": {
-        "licenses": "Apache-2.0",
-        "repository": "https://github.com/ehmicky/human-signals",
-        "licenseUrl": "https://github.com/ehmicky/human-signals/raw/master/LICENSE",
-        "parents": "lint-staged:trendy"
     },
     "husky@8.0.1": {
         "licenses": "MIT",
@@ -1356,7 +1582,13 @@
         "licenseUrl": "https://github.com/kaelzhang/node-ignore/raw/master/LICENSE-MIT",
         "parents": "trendy"
     },
-    "immutable@4.1.0": {
+    "ignore@7.0.5": {
+        "licenses": "MIT",
+        "repository": "https://github.com/kaelzhang/node-ignore",
+        "licenseUrl": "https://github.com/kaelzhang/node-ignore/raw/master/LICENSE-MIT",
+        "parents": "@typescript-eslint/eslint-plugin:trendy"
+    },
+    "immutable@4.3.8": {
         "licenses": "MIT",
         "repository": "https://github.com/immutable-js/immutable-js",
         "licenseUrl": "https://github.com/immutable-js/immutable-js/raw/master/LICENSE",
@@ -1368,16 +1600,16 @@
         "licenseUrl": "https://github.com/sindresorhus/import-fresh/raw/master/license",
         "parents": "trendy"
     },
+    "import-fresh@3.3.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/sindresorhus/import-fresh",
+        "licenseUrl": "https://github.com/sindresorhus/import-fresh/raw/master/license",
+        "parents": "cosmiconfig:trendy"
+    },
     "imurmurhash@0.1.4": {
         "licenses": "MIT",
         "repository": "https://github.com/jensyt/imurmurhash-js",
         "licenseUrl": "https://github.com/jensyt/imurmurhash-js",
-        "parents": "trendy"
-    },
-    "indent-string@4.0.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/indent-string",
-        "licenseUrl": "https://github.com/sindresorhus/indent-string/raw/master/license",
         "parents": "trendy"
     },
     "inflight@1.0.6": {
@@ -1392,16 +1624,28 @@
         "licenseUrl": "https://github.com/isaacs/inherits/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "ini@1.3.8": {
+    "ini@6.0.0": {
         "licenses": "ISC",
-        "repository": "https://github.com/isaacs/ini",
-        "licenseUrl": "https://github.com/isaacs/ini/raw/master/LICENSE",
+        "repository": "https://github.com/npm/ini",
+        "licenseUrl": "https://github.com/npm/ini/raw/master/LICENSE",
         "parents": "trendy"
     },
     "internal-slot@1.0.3": {
         "licenses": "MIT",
         "repository": "https://github.com/ljharb/internal-slot",
         "licenseUrl": "https://github.com/ljharb/internal-slot/raw/master/LICENSE",
+        "parents": "jsx-ast-utils:trendy"
+    },
+    "internal-slot@1.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/internal-slot",
+        "licenseUrl": "https://github.com/ljharb/internal-slot/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "is-array-buffer@3.0.5": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/is-array-buffer",
+        "licenseUrl": "https://github.com/inspect-js/is-array-buffer/raw/master/LICENSE",
         "parents": "trendy"
     },
     "is-arrayish@0.2.1": {
@@ -1410,7 +1654,19 @@
         "licenseUrl": "https://github.com/qix-/node-is-arrayish/raw/master/LICENSE",
         "parents": "trendy"
     },
+    "is-async-function@2.1.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/is-async-function",
+        "licenseUrl": "https://github.com/inspect-js/is-async-function/raw/master/LICENSE",
+        "parents": "trendy"
+    },
     "is-bigint@1.0.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/is-bigint",
+        "licenseUrl": "https://github.com/inspect-js/is-bigint/raw/master/LICENSE",
+        "parents": "jsx-ast-utils:trendy"
+    },
+    "is-bigint@1.1.0": {
         "licenses": "MIT",
         "repository": "https://github.com/inspect-js/is-bigint",
         "licenseUrl": "https://github.com/inspect-js/is-bigint/raw/master/LICENSE",
@@ -1426,6 +1682,18 @@
         "licenses": "MIT",
         "repository": "https://github.com/inspect-js/is-boolean-object",
         "licenseUrl": "https://github.com/inspect-js/is-boolean-object/raw/master/LICENSE",
+        "parents": "jsx-ast-utils:trendy"
+    },
+    "is-boolean-object@1.2.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/is-boolean-object",
+        "licenseUrl": "https://github.com/inspect-js/is-boolean-object/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "is-bun-module@2.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/SunsetTechuila/is-bun-module",
+        "licenseUrl": "https://github.com/SunsetTechuila/is-bun-module/raw/master/LICENSE",
         "parents": "trendy"
     },
     "is-callable@1.2.7": {
@@ -1438,9 +1706,27 @@
         "licenses": "MIT",
         "repository": "https://github.com/inspect-js/is-core-module",
         "licenseUrl": "https://github.com/inspect-js/is-core-module/raw/master/LICENSE",
+        "parents": "eslint-import-resolver-node:trendy"
+    },
+    "is-core-module@2.16.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/is-core-module",
+        "licenseUrl": "https://github.com/inspect-js/is-core-module/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "is-data-view@1.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/is-data-view",
+        "licenseUrl": "https://github.com/inspect-js/is-data-view/raw/master/LICENSE",
         "parents": "trendy"
     },
     "is-date-object@1.0.5": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/is-date-object",
+        "licenseUrl": "https://github.com/inspect-js/is-date-object/raw/master/LICENSE",
+        "parents": "jsx-ast-utils:trendy"
+    },
+    "is-date-object@1.1.0": {
         "licenses": "MIT",
         "repository": "https://github.com/inspect-js/is-date-object",
         "licenseUrl": "https://github.com/inspect-js/is-date-object/raw/master/LICENSE",
@@ -1452,17 +1738,29 @@
         "licenseUrl": "https://github.com/jonschlinkert/is-extglob/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "is-fullwidth-code-point@3.0.0": {
+    "is-finalizationregistry@1.1.1": {
         "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/is-fullwidth-code-point",
-        "licenseUrl": "https://github.com/sindresorhus/is-fullwidth-code-point/raw/master/license",
+        "repository": "https://github.com/inspect-js/is-finalizationregistry",
+        "licenseUrl": "https://github.com/inspect-js/is-finalizationregistry/raw/master/LICENSE",
         "parents": "trendy"
     },
     "is-fullwidth-code-point@4.0.0": {
         "licenses": "MIT",
         "repository": "https://github.com/sindresorhus/is-fullwidth-code-point",
         "licenseUrl": "https://github.com/sindresorhus/is-fullwidth-code-point/raw/master/license",
-        "parents": "slice-ansi:trendy"
+        "parents": "trendy"
+    },
+    "is-fullwidth-code-point@5.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/sindresorhus/is-fullwidth-code-point",
+        "licenseUrl": "https://github.com/sindresorhus/is-fullwidth-code-point/raw/master/license",
+        "parents": "log-update:trendy"
+    },
+    "is-generator-function@1.1.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/is-generator-function",
+        "licenseUrl": "https://github.com/inspect-js/is-generator-function/raw/master/LICENSE",
+        "parents": "trendy"
     },
     "is-glob@4.0.3": {
         "licenses": "MIT",
@@ -1470,13 +1768,31 @@
         "licenseUrl": "https://github.com/micromatch/is-glob/raw/master/LICENSE",
         "parents": "trendy"
     },
+    "is-map@2.0.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/is-map",
+        "licenseUrl": "https://github.com/inspect-js/is-map/raw/master/LICENSE",
+        "parents": "trendy"
+    },
     "is-negative-zero@2.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/is-negative-zero",
+        "licenseUrl": "https://github.com/inspect-js/is-negative-zero/raw/master/LICENSE",
+        "parents": "jsx-ast-utils:trendy"
+    },
+    "is-negative-zero@2.0.3": {
         "licenses": "MIT",
         "repository": "https://github.com/inspect-js/is-negative-zero",
         "licenseUrl": "https://github.com/inspect-js/is-negative-zero/raw/master/LICENSE",
         "parents": "trendy"
     },
     "is-number-object@1.0.7": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/is-number-object",
+        "licenseUrl": "https://github.com/inspect-js/is-number-object/raw/master/LICENSE",
+        "parents": "jsx-ast-utils:trendy"
+    },
+    "is-number-object@1.1.1": {
         "licenses": "MIT",
         "repository": "https://github.com/inspect-js/is-number-object",
         "licenseUrl": "https://github.com/inspect-js/is-number-object/raw/master/LICENSE",
@@ -1500,7 +1816,7 @@
         "licenseUrl": "https://github.com/sindresorhus/is-path-inside/raw/master/license",
         "parents": "trendy"
     },
-    "is-plain-obj@1.1.0": {
+    "is-plain-obj@4.1.0": {
         "licenses": "MIT",
         "repository": "https://github.com/sindresorhus/is-plain-obj",
         "licenseUrl": "https://github.com/sindresorhus/is-plain-obj/raw/master/license",
@@ -1510,25 +1826,37 @@
         "licenses": "MIT",
         "repository": "https://github.com/inspect-js/is-regex",
         "licenseUrl": "https://github.com/inspect-js/is-regex/raw/master/LICENSE",
+        "parents": "jsx-ast-utils:trendy"
+    },
+    "is-regex@1.2.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/is-regex",
+        "licenseUrl": "https://github.com/inspect-js/is-regex/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "is-set@2.0.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/is-set",
+        "licenseUrl": "https://github.com/inspect-js/is-set/raw/master/LICENSE",
         "parents": "trendy"
     },
     "is-shared-array-buffer@1.0.2": {
         "licenses": "MIT",
         "repository": "https://github.com/inspect-js/is-shared-array-buffer",
         "licenseUrl": "https://github.com/inspect-js/is-shared-array-buffer/raw/master/LICENSE",
-        "parents": "trendy"
+        "parents": "jsx-ast-utils:trendy"
     },
-    "is-stream@2.0.1": {
+    "is-shared-array-buffer@1.0.4": {
         "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/is-stream",
-        "licenseUrl": "https://github.com/sindresorhus/is-stream/raw/master/license",
+        "repository": "https://github.com/inspect-js/is-shared-array-buffer",
+        "licenseUrl": "https://github.com/inspect-js/is-shared-array-buffer/raw/master/LICENSE",
         "parents": "trendy"
     },
     "is-stream@3.0.0": {
         "licenses": "MIT",
         "repository": "https://github.com/sindresorhus/is-stream",
         "licenseUrl": "https://github.com/sindresorhus/is-stream/raw/master/license",
-        "parents": "lint-staged:trendy"
+        "parents": "trendy"
     },
     "is-string@1.0.7": {
         "licenses": "MIT",
@@ -1536,16 +1864,34 @@
         "licenseUrl": "https://github.com/ljharb/is-string/raw/master/LICENSE",
         "parents": "trendy"
     },
+    "is-string@1.1.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/is-string",
+        "licenseUrl": "https://github.com/inspect-js/is-string/raw/master/LICENSE",
+        "parents": "es-abstract:trendy"
+    },
     "is-symbol@1.0.4": {
         "licenses": "MIT",
         "repository": "https://github.com/inspect-js/is-symbol",
         "licenseUrl": "https://github.com/inspect-js/is-symbol/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "is-text-path@1.0.1": {
+    "is-symbol@1.1.1": {
         "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/is-text-path",
-        "licenseUrl": "https://github.com/sindresorhus/is-text-path/raw/master/license",
+        "repository": "https://github.com/inspect-js/is-symbol",
+        "licenseUrl": "https://github.com/inspect-js/is-symbol/raw/master/LICENSE",
+        "parents": "es-to-primitive:trendy"
+    },
+    "is-typed-array@1.1.15": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/is-typed-array",
+        "licenseUrl": "https://github.com/inspect-js/is-typed-array/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "is-weakmap@2.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/is-weakmap",
+        "licenseUrl": "https://github.com/inspect-js/is-weakmap/raw/master/LICENSE",
         "parents": "trendy"
     },
     "is-weakref@1.0.2": {
@@ -1554,10 +1900,40 @@
         "licenseUrl": "https://github.com/inspect-js/is-weakref/raw/master/LICENSE",
         "parents": "trendy"
     },
+    "is-weakref@1.1.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/is-weakref",
+        "licenseUrl": "https://github.com/inspect-js/is-weakref/raw/master/LICENSE",
+        "parents": "es-abstract:trendy"
+    },
+    "is-weakset@2.0.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/is-weakset",
+        "licenseUrl": "https://github.com/inspect-js/is-weakset/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "isarray@2.0.5": {
+        "licenses": "MIT",
+        "repository": "https://github.com/juliangruber/isarray",
+        "licenseUrl": "https://github.com/juliangruber/isarray/raw/master/LICENSE",
+        "parents": "trendy"
+    },
     "isexe@2.0.0": {
         "licenses": "ISC",
         "repository": "https://github.com/isaacs/isexe",
         "licenseUrl": "https://github.com/isaacs/isexe/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "iterator.prototype@1.1.5": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/Iterator.prototype",
+        "licenseUrl": "https://github.com/ljharb/Iterator.prototype/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "jiti@2.6.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/unjs/jiti",
+        "licenseUrl": "https://github.com/unjs/jiti/raw/master/LICENSE",
         "parents": "trendy"
     },
     "jju@1.4.0": {
@@ -1572,19 +1948,13 @@
         "licenseUrl": "https://github.com/dnukem/node-jquery-extend/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "js-sdsl@4.2.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/js-sdsl/js-sdsl",
-        "licenseUrl": "https://github.com/js-sdsl/js-sdsl/raw/master/LICENSE",
-        "parents": "trendy"
-    },
     "js-tokens@4.0.0": {
         "licenses": "MIT",
         "repository": "https://github.com/lydell/js-tokens",
         "licenseUrl": "https://github.com/lydell/js-tokens/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "js-yaml@4.1.0": {
+    "js-yaml@4.2.0": {
         "licenses": "MIT",
         "repository": "https://github.com/nodeca/js-yaml",
         "licenseUrl": "https://github.com/nodeca/js-yaml/raw/master/LICENSE",
@@ -1626,37 +1996,25 @@
         "licenseUrl": "https://github.com/json5/json5/raw/master/LICENSE.md",
         "parents": "trendy"
     },
-    "jsonfile@6.1.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/jprichardson/node-jsonfile",
-        "licenseUrl": "https://github.com/jprichardson/node-jsonfile/raw/master/LICENSE",
-        "parents": "trendy"
-    },
-    "jsonparse@1.3.1": {
-        "licenses": "MIT",
-        "repository": "http://github.com/creationix/jsonparse",
-        "licenseUrl": "http://github.com/creationix/jsonparse/raw/master/LICENSE",
-        "parents": "trendy"
-    },
     "jsx-ast-utils@3.3.3": {
         "licenses": "MIT",
         "repository": "https://github.com/jsx-eslint/jsx-ast-utils",
         "licenseUrl": "https://github.com/jsx-eslint/jsx-ast-utils/raw/master/LICENSE.md",
         "parents": "trendy"
     },
-    "kind-of@6.0.3": {
+    "jsx-ast-utils@3.3.5": {
         "licenses": "MIT",
-        "repository": "https://github.com/jonschlinkert/kind-of",
-        "licenseUrl": "https://github.com/jonschlinkert/kind-of/raw/master/LICENSE",
-        "parents": "trendy"
+        "repository": "https://github.com/jsx-eslint/jsx-ast-utils",
+        "licenseUrl": "https://github.com/jsx-eslint/jsx-ast-utils/raw/master/LICENSE.md",
+        "parents": "eslint-plugin-jsx-a11y:trendy"
     },
-    "language-subtag-registry@0.3.22": {
+    "language-subtag-registry@0.3.23": {
         "licenses": "CC0-1.0",
         "repository": "https://github.com/mattcg/language-subtag-registry",
         "licenseUrl": "https://github.com/mattcg/language-subtag-registry",
         "parents": "trendy"
     },
-    "language-tags@1.0.5": {
+    "language-tags@1.0.9": {
         "licenses": "MIT",
         "repository": "https://github.com/mattcg/language-tags",
         "licenseUrl": "https://github.com/mattcg/language-tags",
@@ -1674,10 +2032,10 @@
         "licenseUrl": "http://github.com/davglass/license-checker/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "lilconfig@2.0.5": {
+    "lilconfig@3.1.3": {
         "licenses": "MIT",
         "repository": "https://github.com/antonk52/lilconfig",
-        "licenseUrl": "https://github.com/antonk52/lilconfig",
+        "licenseUrl": "https://github.com/antonk52/lilconfig/raw/master/LICENSE",
         "parents": "trendy"
     },
     "lines-and-columns@1.2.4": {
@@ -1686,23 +2044,17 @@
         "licenseUrl": "https://github.com/eventualbuddha/lines-and-columns/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "lint-staged@13.0.3": {
+    "lint-staged@15.5.2": {
         "licenses": "MIT",
-        "repository": "https://github.com/okonet/lint-staged",
-        "licenseUrl": "https://github.com/okonet/lint-staged/raw/master/LICENSE",
+        "repository": "https://github.com/lint-staged/lint-staged",
+        "licenseUrl": "https://github.com/lint-staged/lint-staged/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "listr2@4.0.5": {
+    "listr2@8.3.3": {
         "licenses": "MIT",
-        "repository": "https://github.com/cenk1cenk2/listr2",
-        "licenseUrl": "https://github.com/cenk1cenk2/listr2/raw/master/LICENSE",
+        "repository": "https://github.com/listr2/listr2",
+        "licenseUrl": "https://github.com/listr2/listr2/raw/master/LICENSE",
         "parents": "trendy"
-    },
-    "locate-path@5.0.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/locate-path",
-        "licenseUrl": "https://github.com/sindresorhus/locate-path/raw/master/license",
-        "parents": "read-pkg-up:trendy"
     },
     "locate-path@6.0.0": {
         "licenses": "MIT",
@@ -1716,13 +2068,13 @@
         "licenseUrl": "https://github.com/lodash/lodash/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "lodash@4.17.21": {
+    "lodash@4.18.1": {
         "licenses": "MIT",
         "repository": "https://github.com/lodash/lodash",
         "licenseUrl": "https://github.com/lodash/lodash/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "log-update@4.0.0": {
+    "log-update@6.1.0": {
         "licenses": "MIT",
         "repository": "https://github.com/sindresorhus/log-update",
         "licenseUrl": "https://github.com/sindresorhus/log-update/raw/master/license",
@@ -1734,31 +2086,19 @@
         "licenseUrl": "https://github.com/zertosh/loose-envify/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "lru-cache@6.0.0": {
-        "licenses": "ISC",
-        "repository": "https://github.com/isaacs/node-lru-cache",
-        "licenseUrl": "https://github.com/isaacs/node-lru-cache/raw/master/LICENSE",
-        "parents": "trendy"
-    },
     "make-error@1.3.6": {
         "licenses": "ISC",
         "repository": "https://github.com/JsCommunity/make-error",
         "licenseUrl": "https://github.com/JsCommunity/make-error/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "map-obj@1.0.1": {
+    "math-intrinsics@1.1.0": {
         "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/map-obj",
-        "licenseUrl": "https://github.com/sindresorhus/map-obj/raw/master/license",
+        "repository": "https://github.com/es-shims/math-intrinsics",
+        "licenseUrl": "https://github.com/es-shims/math-intrinsics/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "map-obj@4.3.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/map-obj",
-        "licenseUrl": "https://github.com/sindresorhus/map-obj/raw/master/license",
-        "parents": "camelcase-keys:trendy"
-    },
-    "meow@8.1.2": {
+    "meow@13.2.0": {
         "licenses": "MIT",
         "repository": "https://github.com/sindresorhus/meow",
         "licenseUrl": "https://github.com/sindresorhus/meow/raw/master/license",
@@ -1776,40 +2116,28 @@
         "licenseUrl": "https://github.com/teambition/merge2/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "micromatch@4.0.5": {
+    "micromatch@4.0.8": {
         "licenses": "MIT",
         "repository": "https://github.com/micromatch/micromatch",
         "licenseUrl": "https://github.com/micromatch/micromatch/raw/master/LICENSE",
-        "parents": "trendy"
-    },
-    "mimic-fn@2.1.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/mimic-fn",
-        "licenseUrl": "https://github.com/sindresorhus/mimic-fn/raw/master/license",
         "parents": "trendy"
     },
     "mimic-fn@4.0.0": {
         "licenses": "MIT",
         "repository": "https://github.com/sindresorhus/mimic-fn",
         "licenseUrl": "https://github.com/sindresorhus/mimic-fn/raw/master/license",
-        "parents": "lint-staged:trendy"
-    },
-    "min-indent@1.0.1": {
-        "licenses": "MIT",
-        "repository": "https://github.com/thejameskyle/min-indent",
-        "licenseUrl": "https://github.com/thejameskyle/min-indent/raw/master/license",
         "parents": "trendy"
     },
-    "minimatch@3.1.2": {
+    "mimic-function@5.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/sindresorhus/mimic-function",
+        "licenseUrl": "https://github.com/sindresorhus/mimic-function/raw/master/license",
+        "parents": "trendy"
+    },
+    "minimatch@9.0.9": {
         "licenses": "ISC",
         "repository": "https://github.com/isaacs/minimatch",
         "licenseUrl": "https://github.com/isaacs/minimatch/raw/master/LICENSE",
-        "parents": "trendy"
-    },
-    "minimist-options@4.1.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/vadimdemedes/minimist-options",
-        "licenseUrl": "https://github.com/vadimdemedes/minimist-options/raw/master/license",
         "parents": "trendy"
     },
     "minimist@1.2.7": {
@@ -1830,28 +2158,28 @@
         "licenseUrl": "https://github.com/substack/node-mkdirp/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "ms@2.0.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/zeit/ms",
-        "licenseUrl": "https://github.com/zeit/ms/raw/master/license.md",
-        "parents": "eslint-plugin-import:trendy"
-    },
     "ms@2.1.2": {
         "licenses": "MIT",
         "repository": "https://github.com/zeit/ms",
         "licenseUrl": "https://github.com/zeit/ms/raw/master/license.md",
-        "parents": "trendy"
+        "parents": "@eslint/eslintrc:trendy"
     },
     "ms@2.1.3": {
         "licenses": "MIT",
         "repository": "https://github.com/vercel/ms",
         "licenseUrl": "https://github.com/vercel/ms/raw/master/license.md",
-        "parents": "eslint-import-resolver-node:trendy"
+        "parents": "trendy"
     },
-    "nanoid@3.3.4": {
+    "nanoid@3.3.12": {
         "licenses": "MIT",
         "repository": "https://github.com/ai/nanoid",
         "licenseUrl": "https://github.com/ai/nanoid/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "napi-postinstall@0.3.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/un-ts/napi-postinstall",
+        "licenseUrl": "https://github.com/un-ts/napi-postinstall/raw/master/LICENSE",
         "parents": "trendy"
     },
     "natives@1.1.6": {
@@ -1866,10 +2194,16 @@
         "licenseUrl": "https://github.com/litejs/natural-compare-lite",
         "parents": "trendy"
     },
-    "next@13.0.0": {
+    "next@15.5.19": {
         "licenses": "MIT",
         "repository": "https://github.com/vercel/next.js",
         "licenseUrl": "https://github.com/vercel/next.js/raw/master/license.md",
+        "parents": "trendy"
+    },
+    "node-exports-info@1.6.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/node-exports-info",
+        "licenseUrl": "https://github.com/inspect-js/node-exports-info/raw/master/LICENSE",
         "parents": "trendy"
     },
     "nopt-defaults@0.0.1": {
@@ -1900,18 +2234,6 @@
         "licenseUrl": "https://github.com/meryn/normalize-package-data/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "normalize-package-data@2.5.0": {
-        "licenses": "BSD-2-Clause",
-        "repository": "https://github.com/npm/normalize-package-data",
-        "licenseUrl": "https://github.com/npm/normalize-package-data/raw/master/LICENSE",
-        "parents": "read-pkg:trendy"
-    },
-    "normalize-package-data@3.0.3": {
-        "licenses": "BSD-2-Clause",
-        "repository": "https://github.com/npm/normalize-package-data",
-        "licenseUrl": "https://github.com/npm/normalize-package-data/raw/master/LICENSE",
-        "parents": "meow:trendy"
-    },
     "normalize-path@3.0.0": {
         "licenses": "MIT",
         "repository": "https://github.com/jonschlinkert/normalize-path",
@@ -1930,17 +2252,11 @@
         "licenseUrl": "http://github.com/mwittig/npm-license-crawler/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "npm-run-path@4.0.1": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/npm-run-path",
-        "licenseUrl": "https://github.com/sindresorhus/npm-run-path/raw/master/license",
-        "parents": "trendy"
-    },
     "npm-run-path@5.1.0": {
         "licenses": "MIT",
         "repository": "https://github.com/sindresorhus/npm-run-path",
         "licenseUrl": "https://github.com/sindresorhus/npm-run-path/raw/master/license",
-        "parents": "lint-staged:trendy"
+        "parents": "trendy"
     },
     "object-assign@4.1.1": {
         "licenses": "MIT",
@@ -1949,6 +2265,12 @@
         "parents": "trendy"
     },
     "object-inspect@1.12.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/object-inspect",
+        "licenseUrl": "https://github.com/inspect-js/object-inspect/raw/master/LICENSE",
+        "parents": "jsx-ast-utils:trendy"
+    },
+    "object-inspect@1.13.4": {
         "licenses": "MIT",
         "repository": "https://github.com/inspect-js/object-inspect",
         "licenseUrl": "https://github.com/inspect-js/object-inspect/raw/master/LICENSE",
@@ -1966,25 +2288,31 @@
         "licenseUrl": "https://github.com/ljharb/object.assign/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "object.entries@1.1.5": {
+    "object.assign@4.1.7": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/object.assign",
+        "licenseUrl": "https://github.com/ljharb/object.assign/raw/master/LICENSE",
+        "parents": "es-abstract:trendy"
+    },
+    "object.entries@1.1.9": {
         "licenses": "MIT",
         "repository": "https://github.com/es-shims/Object.entries",
         "licenseUrl": "https://github.com/es-shims/Object.entries/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "object.fromentries@2.0.5": {
+    "object.fromentries@2.0.8": {
         "licenses": "MIT",
         "repository": "https://github.com/es-shims/Object.fromEntries",
         "licenseUrl": "https://github.com/es-shims/Object.fromEntries/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "object.hasown@1.1.1": {
+    "object.groupby@1.0.3": {
         "licenses": "MIT",
-        "repository": "https://github.com/es-shims/Object.hasOwn",
-        "licenseUrl": "https://github.com/es-shims/Object.hasOwn/raw/master/LICENSE",
+        "repository": "https://github.com/es-shims/Object.groupBy",
+        "licenseUrl": "https://github.com/es-shims/Object.groupBy/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "object.values@1.1.5": {
+    "object.values@1.2.1": {
         "licenses": "MIT",
         "repository": "https://github.com/es-shims/Object.values",
         "licenseUrl": "https://github.com/es-shims/Object.values/raw/master/LICENSE",
@@ -1996,29 +2324,29 @@
         "licenseUrl": "https://github.com/isaacs/once/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "onetime@5.1.2": {
+    "onetime@6.0.0": {
         "licenses": "MIT",
         "repository": "https://github.com/sindresorhus/onetime",
         "licenseUrl": "https://github.com/sindresorhus/onetime/raw/master/license",
         "parents": "trendy"
     },
-    "onetime@6.0.0": {
+    "onetime@7.0.0": {
         "licenses": "MIT",
         "repository": "https://github.com/sindresorhus/onetime",
         "licenseUrl": "https://github.com/sindresorhus/onetime/raw/master/license",
-        "parents": "lint-staged:trendy"
+        "parents": "restore-cursor:trendy"
     },
-    "optionator@0.9.1": {
+    "optionator@0.9.4": {
         "licenses": "MIT",
         "repository": "https://github.com/gkz/optionator",
         "licenseUrl": "https://github.com/gkz/optionator/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "p-limit@2.3.0": {
+    "own-keys@1.0.1": {
         "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/p-limit",
-        "licenseUrl": "https://github.com/sindresorhus/p-limit/raw/master/license",
-        "parents": "read-pkg-up:trendy"
+        "repository": "https://github.com/ljharb/own-keys",
+        "licenseUrl": "https://github.com/ljharb/own-keys/raw/master/LICENSE",
+        "parents": "trendy"
     },
     "p-limit@3.1.0": {
         "licenses": "MIT",
@@ -2026,28 +2354,10 @@
         "licenseUrl": "https://github.com/sindresorhus/p-limit/raw/master/license",
         "parents": "trendy"
     },
-    "p-locate@4.1.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/p-locate",
-        "licenseUrl": "https://github.com/sindresorhus/p-locate/raw/master/license",
-        "parents": "read-pkg-up:trendy"
-    },
     "p-locate@5.0.0": {
         "licenses": "MIT",
         "repository": "https://github.com/sindresorhus/p-locate",
         "licenseUrl": "https://github.com/sindresorhus/p-locate/raw/master/license",
-        "parents": "trendy"
-    },
-    "p-map@4.0.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/p-map",
-        "licenseUrl": "https://github.com/sindresorhus/p-map/raw/master/license",
-        "parents": "trendy"
-    },
-    "p-try@2.2.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/p-try",
-        "licenseUrl": "https://github.com/sindresorhus/p-try/raw/master/license",
         "parents": "trendy"
     },
     "parent-module@1.0.1": {
@@ -2084,7 +2394,7 @@
         "licenses": "MIT",
         "repository": "https://github.com/sindresorhus/path-key",
         "licenseUrl": "https://github.com/sindresorhus/path-key/raw/master/license",
-        "parents": "lint-staged:trendy"
+        "parents": "npm-run-path:trendy"
     },
     "path-parse@1.0.7": {
         "licenses": "MIT",
@@ -2092,23 +2402,23 @@
         "licenseUrl": "https://github.com/jbgutierrez/path-parse/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "path-type@4.0.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/path-type",
-        "licenseUrl": "https://github.com/sindresorhus/path-type/raw/master/license",
-        "parents": "trendy"
-    },
-    "picocolors@1.0.0": {
+    "picocolors@1.1.1": {
         "licenses": "ISC",
         "repository": "https://github.com/alexeyraspopov/picocolors",
         "licenseUrl": "https://github.com/alexeyraspopov/picocolors/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "picomatch@2.3.1": {
+    "picomatch@2.3.2": {
         "licenses": "MIT",
         "repository": "https://github.com/micromatch/picomatch",
         "licenseUrl": "https://github.com/micromatch/picomatch/raw/master/LICENSE",
         "parents": "trendy"
+    },
+    "picomatch@4.0.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/micromatch/picomatch",
+        "licenseUrl": "https://github.com/micromatch/picomatch/raw/master/LICENSE",
+        "parents": "tinyglobby:trendy"
     },
     "pidtree@0.6.0": {
         "licenses": "MIT",
@@ -2116,7 +2426,13 @@
         "licenseUrl": "github:simonepri/pidtree",
         "parents": "trendy"
     },
-    "postcss@8.4.14": {
+    "possible-typed-array-names@1.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/possible-typed-array-names",
+        "licenseUrl": "https://github.com/ljharb/possible-typed-array-names/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "postcss@8.5.15": {
         "licenses": "MIT",
         "repository": "https://github.com/postcss/postcss",
         "licenseUrl": "https://github.com/postcss/postcss/raw/master/LICENSE",
@@ -2152,25 +2468,13 @@
         "licenseUrl": "https://github.com/bestiejs/punycode.js/raw/master/LICENSE-MIT.txt",
         "parents": "trendy"
     },
-    "q@1.5.1": {
-        "licenses": "MIT",
-        "repository": "https://github.com/kriskowal/q",
-        "licenseUrl": "https://github.com/kriskowal/q/raw/master/LICENSE",
-        "parents": "trendy"
-    },
     "queue-microtask@1.2.3": {
         "licenses": "MIT",
         "repository": "https://github.com/feross/queue-microtask",
         "licenseUrl": "https://github.com/feross/queue-microtask/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "quick-lru@4.0.1": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/quick-lru",
-        "licenseUrl": "https://github.com/sindresorhus/quick-lru/raw/master/license",
-        "parents": "trendy"
-    },
-    "react-dom@18.2.0": {
+    "react-dom@19.2.7": {
         "licenses": "MIT",
         "repository": "https://github.com/facebook/react",
         "licenseUrl": "https://github.com/facebook/react/raw/master/LICENSE",
@@ -2182,7 +2486,7 @@
         "licenseUrl": "https://github.com/facebook/react/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "react@18.2.0": {
+    "react@19.2.7": {
         "licenses": "MIT",
         "repository": "https://github.com/facebook/react",
         "licenseUrl": "https://github.com/facebook/react/raw/master/LICENSE",
@@ -2200,24 +2504,6 @@
         "licenseUrl": "https://github.com/isaacs/read-package-json/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "read-pkg-up@7.0.1": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/read-pkg-up",
-        "licenseUrl": "https://github.com/sindresorhus/read-pkg-up/raw/master/license",
-        "parents": "trendy"
-    },
-    "read-pkg@5.2.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/read-pkg",
-        "licenseUrl": "https://github.com/sindresorhus/read-pkg/raw/master/license",
-        "parents": "trendy"
-    },
-    "readable-stream@3.6.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/nodejs/readable-stream",
-        "licenseUrl": "https://github.com/nodejs/readable-stream/raw/master/LICENSE",
-        "parents": "trendy"
-    },
     "readdir-scoped-modules@1.1.0": {
         "licenses": "ISC",
         "repository": "https://github.com/npm/readdir-scoped-modules",
@@ -2230,34 +2516,22 @@
         "licenseUrl": "https://github.com/paulmillr/readdirp/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "redent@3.0.0": {
+    "reflect.getprototypeof@1.0.10": {
         "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/redent",
-        "licenseUrl": "https://github.com/sindresorhus/redent/raw/master/license",
-        "parents": "trendy"
-    },
-    "regenerator-runtime@0.13.10": {
-        "licenses": "MIT",
-        "repository": "https://github.com/facebook/regenerator/tree/master/packages/runtime",
-        "licenseUrl": "https://github.com/facebook/regenerator/tree/master/packages/runtime/raw/master/LICENSE",
+        "repository": "https://github.com/es-shims/Reflect.getPrototypeOf",
+        "licenseUrl": "https://github.com/es-shims/Reflect.getPrototypeOf/raw/master/LICENSE",
         "parents": "trendy"
     },
     "regexp.prototype.flags@1.4.3": {
         "licenses": "MIT",
         "repository": "https://github.com/es-shims/RegExp.prototype.flags",
         "licenseUrl": "https://github.com/es-shims/RegExp.prototype.flags/raw/master/LICENSE",
-        "parents": "trendy"
+        "parents": "jsx-ast-utils:trendy"
     },
-    "regexpp@3.2.0": {
+    "regexp.prototype.flags@1.5.4": {
         "licenses": "MIT",
-        "repository": "https://github.com/mysticatea/regexpp",
-        "licenseUrl": "https://github.com/mysticatea/regexpp/raw/master/LICENSE",
-        "parents": "trendy"
-    },
-    "require-directory@2.1.1": {
-        "licenses": "MIT",
-        "repository": "https://github.com/troygoode/node-require-directory",
-        "licenseUrl": "https://github.com/troygoode/node-require-directory/raw/master/LICENSE",
+        "repository": "https://github.com/es-shims/RegExp.prototype.flags",
+        "licenseUrl": "https://github.com/es-shims/RegExp.prototype.flags/raw/master/LICENSE",
         "parents": "trendy"
     },
     "require-from-string@2.0.2": {
@@ -2270,33 +2544,33 @@
         "licenses": "MIT",
         "repository": "https://github.com/sindresorhus/resolve-from",
         "licenseUrl": "https://github.com/sindresorhus/resolve-from/raw/master/license",
-        "parents": "import-fresh:trendy"
+        "parents": "trendy"
     },
     "resolve-from@5.0.0": {
         "licenses": "MIT",
         "repository": "https://github.com/sindresorhus/resolve-from",
         "licenseUrl": "https://github.com/sindresorhus/resolve-from/raw/master/license",
-        "parents": "trendy"
+        "parents": "@commitlint/resolve-extends:trendy"
     },
-    "resolve-global@1.0.0": {
+    "resolve-pkg-maps@1.0.0": {
         "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/resolve-global",
-        "licenseUrl": "https://github.com/sindresorhus/resolve-global/raw/master/license",
+        "repository": "https://github.com/privatenumber/resolve-pkg-maps",
+        "licenseUrl": "https://github.com/privatenumber/resolve-pkg-maps/raw/master/LICENSE",
         "parents": "trendy"
     },
     "resolve@1.22.1": {
         "licenses": "MIT",
         "repository": "https://github.com/browserify/resolve",
         "licenseUrl": "https://github.com/browserify/resolve/raw/master/LICENSE",
+        "parents": "eslint-import-resolver-node:trendy"
+    },
+    "resolve@2.0.0-next.7": {
+        "licenses": "MIT",
+        "repository": "ssh://github.com/browserify/resolve",
+        "licenseUrl": "ssh://github.com/browserify/resolve/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "resolve@2.0.0-next.4": {
-        "licenses": "MIT",
-        "repository": "https://github.com/browserify/resolve",
-        "licenseUrl": "https://github.com/browserify/resolve/raw/master/LICENSE",
-        "parents": "eslint-plugin-react:trendy"
-    },
-    "restore-cursor@3.1.0": {
+    "restore-cursor@5.1.0": {
         "licenses": "MIT",
         "repository": "https://github.com/sindresorhus/restore-cursor",
         "licenseUrl": "https://github.com/sindresorhus/restore-cursor/raw/master/license",
@@ -2308,7 +2582,7 @@
         "licenseUrl": "https://github.com/mcollina/reusify/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "rfdc@1.3.0": {
+    "rfdc@1.4.1": {
         "licenses": "MIT",
         "repository": "https://github.com/davidmarkclements/rfdc",
         "licenseUrl": "https://github.com/davidmarkclements/rfdc/raw/master/LICENSE",
@@ -2326,19 +2600,25 @@
         "licenseUrl": "https://github.com/feross/run-parallel/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "rxjs@7.5.7": {
-        "licenses": "Apache-2.0",
-        "repository": "https://github.com/reactivex/rxjs",
-        "licenseUrl": "https://github.com/reactivex/rxjs/raw/master/LICENSE.txt",
+    "safe-array-concat@1.1.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/safe-array-concat",
+        "licenseUrl": "https://github.com/ljharb/safe-array-concat/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "safe-buffer@5.2.1": {
+    "safe-push-apply@1.0.0": {
         "licenses": "MIT",
-        "repository": "https://github.com/feross/safe-buffer",
-        "licenseUrl": "https://github.com/feross/safe-buffer/raw/master/LICENSE",
+        "repository": "https://github.com/ljharb/safe-push-apply",
+        "licenseUrl": "https://github.com/ljharb/safe-push-apply/raw/master/LICENSE",
         "parents": "trendy"
     },
     "safe-regex-test@1.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/safe-regex-test",
+        "licenseUrl": "https://github.com/ljharb/safe-regex-test/raw/master/LICENSE",
+        "parents": "jsx-ast-utils:trendy"
+    },
+    "safe-regex-test@1.1.0": {
         "licenses": "MIT",
         "repository": "https://github.com/ljharb/safe-regex-test",
         "licenseUrl": "https://github.com/ljharb/safe-regex-test/raw/master/LICENSE",
@@ -2350,41 +2630,41 @@
         "licenseUrl": "https://github.com/sass/dart-sass/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "scheduler@0.23.0": {
+    "scheduler@0.27.0": {
         "licenses": "MIT",
         "repository": "https://github.com/facebook/react",
         "licenseUrl": "https://github.com/facebook/react/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "semver@4.3.6": {
+    "semver@7.8.2": {
         "licenses": "ISC",
         "repository": "https://github.com/npm/node-semver",
         "licenseUrl": "https://github.com/npm/node-semver/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "semver@5.7.1": {
-        "licenses": "ISC",
-        "repository": "https://github.com/npm/node-semver",
-        "licenseUrl": "https://github.com/npm/node-semver/raw/master/LICENSE",
-        "parents": "read-pkg:trendy"
+    "set-function-length@1.2.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/set-function-length",
+        "licenseUrl": "https://github.com/ljharb/set-function-length/raw/master/LICENSE",
+        "parents": "trendy"
     },
-    "semver@6.3.0": {
-        "licenses": "ISC",
-        "repository": "https://github.com/npm/node-semver",
-        "licenseUrl": "https://github.com/npm/node-semver/raw/master/LICENSE",
-        "parents": "eslint-plugin-jsx-a11y:trendy"
+    "set-function-name@2.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/set-function-name",
+        "licenseUrl": "https://github.com/ljharb/set-function-name/raw/master/LICENSE",
+        "parents": "trendy"
     },
-    "semver@7.3.7": {
-        "licenses": "ISC",
-        "repository": "https://github.com/npm/node-semver",
-        "licenseUrl": "https://github.com/npm/node-semver/raw/master/LICENSE",
-        "parents": "@commitlint/is-ignored:trendy"
+    "set-proto@1.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/set-proto",
+        "licenseUrl": "https://github.com/ljharb/set-proto/raw/master/LICENSE",
+        "parents": "trendy"
     },
-    "semver@7.3.8": {
-        "licenses": "ISC",
-        "repository": "https://github.com/npm/node-semver",
-        "licenseUrl": "https://github.com/npm/node-semver/raw/master/LICENSE",
-        "parents": "@typescript-eslint/typescript-estree:trendy"
+    "sharp@0.34.5": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/lovell/sharp",
+        "licenseUrl": "https://github.com/lovell/sharp/raw/master/LICENSE",
+        "parents": "trendy"
     },
     "shebang-command@2.0.0": {
         "licenses": "MIT",
@@ -2398,41 +2678,53 @@
         "licenseUrl": "https://github.com/sindresorhus/shebang-regex/raw/master/license",
         "parents": "trendy"
     },
+    "side-channel-list@1.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/side-channel-list",
+        "licenseUrl": "https://github.com/ljharb/side-channel-list/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "side-channel-map@1.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/side-channel-map",
+        "licenseUrl": "https://github.com/ljharb/side-channel-map/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "side-channel-weakmap@1.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/side-channel-weakmap",
+        "licenseUrl": "https://github.com/ljharb/side-channel-weakmap/raw/master/LICENSE",
+        "parents": "trendy"
+    },
     "side-channel@1.0.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/side-channel",
+        "licenseUrl": "https://github.com/ljharb/side-channel/raw/master/LICENSE",
+        "parents": "jsx-ast-utils:trendy"
+    },
+    "side-channel@1.1.0": {
         "licenses": "MIT",
         "repository": "https://github.com/ljharb/side-channel",
         "licenseUrl": "https://github.com/ljharb/side-channel/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "signal-exit@3.0.7": {
+    "signal-exit@4.1.0": {
         "licenses": "ISC",
         "repository": "https://github.com/tapjs/signal-exit",
         "licenseUrl": "https://github.com/tapjs/signal-exit/raw/master/LICENSE.txt",
         "parents": "trendy"
-    },
-    "slash@3.0.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/slash",
-        "licenseUrl": "https://github.com/sindresorhus/slash/raw/master/license",
-        "parents": "trendy"
-    },
-    "slice-ansi@3.0.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/chalk/slice-ansi",
-        "licenseUrl": "https://github.com/chalk/slice-ansi/raw/master/license",
-        "parents": "listr2:trendy"
-    },
-    "slice-ansi@4.0.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/chalk/slice-ansi",
-        "licenseUrl": "https://github.com/chalk/slice-ansi/raw/master/license",
-        "parents": "log-update:trendy"
     },
     "slice-ansi@5.0.0": {
         "licenses": "MIT",
         "repository": "https://github.com/chalk/slice-ansi",
         "licenseUrl": "https://github.com/chalk/slice-ansi/raw/master/license",
         "parents": "trendy"
+    },
+    "slice-ansi@7.1.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/chalk/slice-ansi",
+        "licenseUrl": "https://github.com/chalk/slice-ansi/raw/master/license",
+        "parents": "log-update:trendy"
     },
     "slide@1.1.6": {
         "licenses": "ISC",
@@ -2446,76 +2738,82 @@
         "licenseUrl": "https://github.com/7rulnik/source-map-js/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "spdx-correct@3.1.1": {
-        "licenses": "Apache-2.0",
-        "repository": "https://github.com/jslicense/spdx-correct.js",
-        "licenseUrl": "https://github.com/jslicense/spdx-correct.js/raw/master/LICENSE",
-        "parents": "trendy"
+    "source-map-js@1.2.1": {
+        "licenses": "BSD-3-Clause",
+        "repository": "https://github.com/7rulnik/source-map-js",
+        "licenseUrl": "https://github.com/7rulnik/source-map-js/raw/master/LICENSE",
+        "parents": "postcss:trendy"
     },
-    "spdx-exceptions@2.3.0": {
-        "licenses": "CC-BY-3.0",
-        "repository": "https://github.com/kemitchell/spdx-exceptions.json",
-        "licenseUrl": "https://github.com/kemitchell/spdx-exceptions.json",
-        "parents": "trendy"
-    },
-    "spdx-expression-parse@3.0.1": {
+    "stable-hash@0.0.5": {
         "licenses": "MIT",
-        "repository": "https://github.com/jslicense/spdx-expression-parse.js",
-        "licenseUrl": "https://github.com/jslicense/spdx-expression-parse.js/raw/master/LICENSE",
+        "repository": "https://github.com/shuding/stable-hash",
+        "licenseUrl": "https://github.com/shuding/stable-hash",
         "parents": "trendy"
     },
-    "spdx-license-ids@3.0.12": {
-        "licenses": "CC0-1.0",
-        "repository": "https://github.com/jslicense/spdx-license-ids",
-        "licenseUrl": "https://github.com/jslicense/spdx-license-ids",
+    "stop-iteration-iterator@1.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/stop-iteration-iterator",
+        "licenseUrl": "https://github.com/ljharb/stop-iteration-iterator/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "split2@3.2.2": {
-        "licenses": "ISC",
-        "repository": "https://github.com/mcollina/split2",
-        "licenseUrl": "https://github.com/mcollina/split2/raw/master/LICENSE",
-        "parents": "trendy"
-    },
-    "string-argv@0.3.1": {
+    "string-argv@0.3.2": {
         "licenses": "MIT",
         "repository": "https://github.com/mccormicka/string-argv",
         "licenseUrl": "https://github.com/mccormicka/string-argv/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "string-width@4.2.3": {
+    "string-width@7.2.0": {
         "licenses": "MIT",
         "repository": "https://github.com/sindresorhus/string-width",
         "licenseUrl": "https://github.com/sindresorhus/string-width/raw/master/license",
         "parents": "trendy"
     },
-    "string-width@5.1.2": {
+    "string.prototype.includes@2.0.1": {
         "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/string-width",
-        "licenseUrl": "https://github.com/sindresorhus/string-width/raw/master/license",
-        "parents": "cli-truncate:trendy"
+        "repository": "https://github.com/mathiasbynens/String.prototype.includes",
+        "licenseUrl": "https://github.com/mathiasbynens/String.prototype.includes/raw/master/LICENSE",
+        "parents": "trendy"
     },
-    "string.prototype.matchall@4.0.7": {
+    "string.prototype.matchall@4.0.12": {
         "licenses": "MIT",
         "repository": "https://github.com/es-shims/String.prototype.matchAll",
         "licenseUrl": "https://github.com/es-shims/String.prototype.matchAll/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "string.prototype.repeat@1.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/mathiasbynens/String.prototype.repeat",
+        "licenseUrl": "https://github.com/mathiasbynens/String.prototype.repeat/raw/master/LICENSE-MIT.txt",
+        "parents": "trendy"
+    },
+    "string.prototype.trim@1.2.11": {
+        "licenses": "MIT",
+        "repository": "https://github.com/es-shims/String.prototype.trim",
+        "licenseUrl": "https://github.com/es-shims/String.prototype.trim/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "string.prototype.trimend@1.0.10": {
+        "licenses": "MIT",
+        "repository": "https://github.com/es-shims/String.prototype.trimEnd",
+        "licenseUrl": "https://github.com/es-shims/String.prototype.trimEnd/raw/master/LICENSE",
         "parents": "trendy"
     },
     "string.prototype.trimend@1.0.5": {
         "licenses": "MIT",
         "repository": "https://github.com/es-shims/String.prototype.trimEnd",
         "licenseUrl": "https://github.com/es-shims/String.prototype.trimEnd/raw/master/LICENSE",
-        "parents": "trendy"
+        "parents": "jsx-ast-utils:trendy"
     },
     "string.prototype.trimstart@1.0.5": {
         "licenses": "MIT",
         "repository": "https://github.com/es-shims/String.prototype.trimStart",
         "licenseUrl": "https://github.com/es-shims/String.prototype.trimStart/raw/master/LICENSE",
-        "parents": "trendy"
+        "parents": "jsx-ast-utils:trendy"
     },
-    "string_decoder@1.3.0": {
+    "string.prototype.trimstart@1.0.8": {
         "licenses": "MIT",
-        "repository": "https://github.com/nodejs/string_decoder",
-        "licenseUrl": "https://github.com/nodejs/string_decoder/raw/master/LICENSE",
+        "repository": "https://github.com/es-shims/String.prototype.trimStart",
+        "licenseUrl": "https://github.com/es-shims/String.prototype.trimStart/raw/master/LICENSE",
         "parents": "trendy"
     },
     "strip-ansi@0.3.0": {
@@ -2528,13 +2826,13 @@
         "licenses": "MIT",
         "repository": "https://github.com/chalk/strip-ansi",
         "licenseUrl": "https://github.com/chalk/strip-ansi/raw/master/license",
-        "parents": "trendy"
+        "parents": "eslint:trendy"
     },
-    "strip-ansi@7.0.1": {
+    "strip-ansi@7.2.0": {
         "licenses": "MIT",
         "repository": "https://github.com/chalk/strip-ansi",
         "licenseUrl": "https://github.com/chalk/strip-ansi/raw/master/license",
-        "parents": "cli-truncate:trendy"
+        "parents": "trendy"
     },
     "strip-bom@3.0.0": {
         "licenses": "MIT",
@@ -2542,22 +2840,10 @@
         "licenseUrl": "https://github.com/sindresorhus/strip-bom/raw/master/license",
         "parents": "trendy"
     },
-    "strip-final-newline@2.0.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/strip-final-newline",
-        "licenseUrl": "https://github.com/sindresorhus/strip-final-newline/raw/master/license",
-        "parents": "trendy"
-    },
     "strip-final-newline@3.0.0": {
         "licenses": "MIT",
         "repository": "https://github.com/sindresorhus/strip-final-newline",
         "licenseUrl": "https://github.com/sindresorhus/strip-final-newline/raw/master/license",
-        "parents": "lint-staged:trendy"
-    },
-    "strip-indent@3.0.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/strip-indent",
-        "licenseUrl": "https://github.com/sindresorhus/strip-indent/raw/master/license",
         "parents": "trendy"
     },
     "strip-json-comments@3.1.1": {
@@ -2566,7 +2852,7 @@
         "licenseUrl": "https://github.com/sindresorhus/strip-json-comments/raw/master/license",
         "parents": "trendy"
     },
-    "styled-jsx@5.1.0": {
+    "styled-jsx@5.1.6": {
         "licenses": "MIT",
         "repository": "https://github.com/vercel/styled-jsx",
         "licenseUrl": "https://github.com/vercel/styled-jsx/raw/master/license.md",
@@ -2582,24 +2868,18 @@
         "licenses": "MIT",
         "repository": "https://github.com/chalk/supports-color",
         "licenseUrl": "https://github.com/chalk/supports-color/raw/master/license",
-        "parents": "@babel/highlight:trendy"
+        "parents": "trendy"
     },
     "supports-color@7.2.0": {
         "licenses": "MIT",
         "repository": "https://github.com/chalk/supports-color",
         "licenseUrl": "https://github.com/chalk/supports-color/raw/master/license",
-        "parents": "trendy"
+        "parents": "eslint:trendy"
     },
     "supports-preserve-symlinks-flag@1.0.0": {
         "licenses": "MIT",
         "repository": "https://github.com/inspect-js/node-supports-preserve-symlinks-flag",
         "licenseUrl": "https://github.com/inspect-js/node-supports-preserve-symlinks-flag/raw/master/LICENSE",
-        "parents": "trendy"
-    },
-    "text-extensions@1.9.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/text-extensions",
-        "licenseUrl": "https://github.com/sindresorhus/text-extensions/raw/master/license",
         "parents": "trendy"
     },
     "text-table@0.2.0": {
@@ -2608,16 +2888,16 @@
         "licenseUrl": "https://github.com/substack/text-table/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "through2@4.0.2": {
+    "tinyexec@1.2.4": {
         "licenses": "MIT",
-        "repository": "https://github.com/rvagg/through2",
-        "licenseUrl": "https://github.com/rvagg/through2/raw/master/LICENSE.md",
+        "repository": "https://github.com/tinylibs/tinyexec",
+        "licenseUrl": "https://github.com/tinylibs/tinyexec/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "through@2.3.8": {
+    "tinyglobby@0.2.17": {
         "licenses": "MIT",
-        "repository": "https://github.com/dominictarr/through",
-        "licenseUrl": "https://github.com/dominictarr/through/raw/master/LICENSE.APACHE2",
+        "repository": "https://github.com/SuperchupuDev/tinyglobby",
+        "licenseUrl": "https://github.com/SuperchupuDev/tinyglobby/raw/master/LICENSE",
         "parents": "trendy"
     },
     "to-regex-range@5.0.1": {
@@ -2636,10 +2916,10 @@
         "licenses": "UNKNOWN",
         "parents": "UNDEFINED"
     },
-    "trim-newlines@3.0.1": {
+    "ts-api-utils@2.5.0": {
         "licenses": "MIT",
-        "repository": "https://github.com/sindresorhus/trim-newlines",
-        "licenseUrl": "https://github.com/sindresorhus/trim-newlines/raw/master/license",
+        "repository": "https://github.com/JoshuaKGoldberg/ts-api-utils",
+        "licenseUrl": "https://github.com/JoshuaKGoldberg/ts-api-utils/raw/master/LICENSE.md",
         "parents": "trendy"
     },
     "ts-node@10.9.1": {
@@ -2648,29 +2928,17 @@
         "licenseUrl": "https://github.com/TypeStrong/ts-node/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "tsconfig-paths@3.14.1": {
+    "tsconfig-paths@3.15.0": {
         "licenses": "MIT",
         "repository": "https://github.com/dividab/tsconfig-paths",
         "licenseUrl": "https://github.com/dividab/tsconfig-paths/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "tslib@1.14.1": {
+    "tslib@2.8.1": {
         "licenses": "0BSD",
         "repository": "https://github.com/Microsoft/tslib",
         "licenseUrl": "https://github.com/Microsoft/tslib/raw/master/LICENSE.txt",
-        "parents": "tsutils:trendy"
-    },
-    "tslib@2.4.0": {
-        "licenses": "0BSD",
-        "repository": "https://github.com/Microsoft/tslib",
-        "licenseUrl": "https://github.com/Microsoft/tslib/raw/master/LICENSE.txt",
-        "parents": "trendy"
-    },
-    "tsutils@3.21.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/ajafff/tsutils",
-        "licenseUrl": "https://github.com/ajafff/tsutils/raw/master/LICENSE",
-        "parents": "trendy"
+        "parents": "@swc/helpers:trendy"
     },
     "type-check@0.4.0": {
         "licenses": "MIT",
@@ -2678,70 +2946,64 @@
         "licenseUrl": "https://github.com/gkz/type-check/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "type-fest@0.18.1": {
-        "licenses": "(MIT OR CC0-1.0)",
-        "repository": "https://github.com/sindresorhus/type-fest",
-        "licenseUrl": "https://github.com/sindresorhus/type-fest/raw/master/license",
-        "parents": "meow:trendy"
-    },
     "type-fest@0.20.2": {
         "licenses": "(MIT OR CC0-1.0)",
         "repository": "https://github.com/sindresorhus/type-fest",
         "licenseUrl": "https://github.com/sindresorhus/type-fest/raw/master/license",
         "parents": "trendy"
     },
-    "type-fest@0.21.3": {
-        "licenses": "(MIT OR CC0-1.0)",
-        "repository": "https://github.com/sindresorhus/type-fest",
-        "licenseUrl": "https://github.com/sindresorhus/type-fest/raw/master/license",
-        "parents": "ansi-escapes:trendy"
+    "typed-array-buffer@1.0.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/typed-array-buffer",
+        "licenseUrl": "https://github.com/inspect-js/typed-array-buffer/raw/master/LICENSE",
+        "parents": "trendy"
     },
-    "type-fest@0.6.0": {
-        "licenses": "(MIT OR CC0-1.0)",
-        "repository": "https://github.com/sindresorhus/type-fest",
-        "licenseUrl": "https://github.com/sindresorhus/type-fest/raw/master/license",
-        "parents": "read-pkg:trendy"
+    "typed-array-byte-length@1.0.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/typed-array-byte-length",
+        "licenseUrl": "https://github.com/inspect-js/typed-array-byte-length/raw/master/LICENSE",
+        "parents": "trendy"
     },
-    "type-fest@0.8.1": {
-        "licenses": "(MIT OR CC0-1.0)",
-        "repository": "https://github.com/sindresorhus/type-fest",
-        "licenseUrl": "https://github.com/sindresorhus/type-fest/raw/master/license",
-        "parents": "read-pkg-up:trendy"
+    "typed-array-byte-offset@1.0.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/typed-array-byte-offset",
+        "licenseUrl": "https://github.com/inspect-js/typed-array-byte-offset/raw/master/LICENSE",
+        "parents": "trendy"
     },
-    "typescript@4.8.4": {
+    "typed-array-length@1.0.8": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/typed-array-length",
+        "licenseUrl": "https://github.com/inspect-js/typed-array-length/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "typescript@5.9.3": {
         "licenses": "Apache-2.0",
-        "repository": "https://github.com/Microsoft/TypeScript",
-        "licenseUrl": "https://github.com/Microsoft/TypeScript/raw/master/LICENSE.txt",
+        "repository": "https://github.com/microsoft/TypeScript",
+        "licenseUrl": "https://github.com/microsoft/TypeScript/raw/master/LICENSE.txt",
         "parents": "trendy"
     },
     "unbox-primitive@1.0.2": {
         "licenses": "MIT",
         "repository": "https://github.com/ljharb/unbox-primitive",
         "licenseUrl": "https://github.com/ljharb/unbox-primitive/raw/master/LICENSE",
+        "parents": "jsx-ast-utils:trendy"
+    },
+    "unbox-primitive@1.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/unbox-primitive",
+        "licenseUrl": "https://github.com/ljharb/unbox-primitive/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "universalify@2.0.0": {
+    "unrs-resolver@1.12.2": {
         "licenses": "MIT",
-        "repository": "https://github.com/RyanZim/universalify",
-        "licenseUrl": "https://github.com/RyanZim/universalify/raw/master/LICENSE",
+        "repository": "https://github.com/unrs/unrs-resolver",
+        "licenseUrl": "https://github.com/unrs/unrs-resolver",
         "parents": "trendy"
     },
     "uri-js@4.4.1": {
         "licenses": "BSD-2-Clause",
         "repository": "http://github.com/garycourt/uri-js",
         "licenseUrl": "http://github.com/garycourt/uri-js/raw/master/LICENSE",
-        "parents": "trendy"
-    },
-    "use-sync-external-store@1.2.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/facebook/react",
-        "licenseUrl": "https://github.com/facebook/react/raw/master/LICENSE",
-        "parents": "trendy"
-    },
-    "util-deprecate@1.0.2": {
-        "licenses": "MIT",
-        "repository": "https://github.com/TooTallNate/util-deprecate",
-        "licenseUrl": "https://github.com/TooTallNate/util-deprecate/raw/master/LICENSE",
         "parents": "trendy"
     },
     "util-extend@1.0.3": {
@@ -2756,16 +3018,34 @@
         "licenseUrl": "https://github.com/cspotcode/v8-compile-cache-lib/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "validate-npm-package-license@3.0.4": {
-        "licenses": "Apache-2.0",
-        "repository": "https://github.com/kemitchell/validate-npm-package-license.js",
-        "licenseUrl": "https://github.com/kemitchell/validate-npm-package-license.js/raw/master/LICENSE",
-        "parents": "trendy"
-    },
     "which-boxed-primitive@1.0.2": {
         "licenses": "MIT",
         "repository": "https://github.com/inspect-js/which-boxed-primitive",
         "licenseUrl": "https://github.com/inspect-js/which-boxed-primitive/raw/master/LICENSE",
+        "parents": "jsx-ast-utils:trendy"
+    },
+    "which-boxed-primitive@1.1.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/which-boxed-primitive",
+        "licenseUrl": "https://github.com/inspect-js/which-boxed-primitive/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "which-builtin-type@1.2.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/which-builtin-type",
+        "licenseUrl": "https://github.com/inspect-js/which-builtin-type/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "which-collection@1.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/which-collection",
+        "licenseUrl": "https://github.com/inspect-js/which-collection/raw/master/LICENSE",
+        "parents": "trendy"
+    },
+    "which-typed-array@1.1.22": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/which-typed-array",
+        "licenseUrl": "https://github.com/inspect-js/which-typed-array/raw/master/LICENSE",
         "parents": "trendy"
     },
     "which@2.0.2": {
@@ -2774,19 +3054,13 @@
         "licenseUrl": "https://github.com/isaacs/node-which/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "word-wrap@1.2.3": {
+    "word-wrap@1.2.5": {
         "licenses": "MIT",
         "repository": "https://github.com/jonschlinkert/word-wrap",
         "licenseUrl": "https://github.com/jonschlinkert/word-wrap/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "wrap-ansi@6.2.0": {
-        "licenses": "MIT",
-        "repository": "https://github.com/chalk/wrap-ansi",
-        "licenseUrl": "https://github.com/chalk/wrap-ansi/raw/master/license",
-        "parents": "log-update:trendy"
-    },
-    "wrap-ansi@7.0.0": {
+    "wrap-ansi@9.0.2": {
         "licenses": "MIT",
         "repository": "https://github.com/chalk/wrap-ansi",
         "licenseUrl": "https://github.com/chalk/wrap-ansi/raw/master/license",
@@ -2816,37 +3090,19 @@
         "licenseUrl": "https://github.com/yargs/y18n/raw/master/LICENSE",
         "parents": "trendy"
     },
-    "yallist@4.0.0": {
-        "licenses": "ISC",
-        "repository": "https://github.com/isaacs/yallist",
-        "licenseUrl": "https://github.com/isaacs/yallist/raw/master/LICENSE",
-        "parents": "trendy"
-    },
-    "yaml@1.10.2": {
-        "licenses": "ISC",
-        "repository": "github:eemeli/yaml",
-        "licenseUrl": "github:eemeli/yaml",
-        "parents": "cosmiconfig:trendy"
-    },
-    "yaml@2.1.3": {
+    "yaml@2.9.0": {
         "licenses": "ISC",
         "repository": "github:eemeli/yaml",
         "licenseUrl": "github:eemeli/yaml",
         "parents": "trendy"
     },
-    "yargs-parser@20.2.9": {
-        "licenses": "ISC",
-        "repository": "https://github.com/yargs/yargs-parser",
-        "licenseUrl": "https://github.com/yargs/yargs-parser/raw/master/LICENSE.txt",
-        "parents": "meow:trendy"
-    },
-    "yargs-parser@21.1.1": {
+    "yargs-parser@22.0.0": {
         "licenses": "ISC",
         "repository": "https://github.com/yargs/yargs-parser",
         "licenseUrl": "https://github.com/yargs/yargs-parser/raw/master/LICENSE.txt",
         "parents": "trendy"
     },
-    "yargs@17.6.0": {
+    "yargs@18.0.0": {
         "licenses": "MIT",
         "repository": "https://github.com/yargs/yargs",
         "licenseUrl": "https://github.com/yargs/yargs/raw/master/LICENSE",
