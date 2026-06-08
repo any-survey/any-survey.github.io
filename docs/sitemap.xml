@@ -27,6 +27,11 @@
     </url>
     <url>
         <loc>
+            https://any-survey.github.io/privacy
+        </loc>
+    </url>
+    <url>
+        <loc>
             https://any-survey.github.io/zero-waste
         </loc>
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/zero-waste"/>
