@@ -69,4 +69,15 @@
             2026-06-06
         </lastmod>
     </url>
+    <url>
+        <loc>
+            https://any-survey.github.io/sbti
+        </loc>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/sbti"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/sbti"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/sbti"/>
+        <lastmod>
+            2026-06-08
+        </lastmod>
+    </url>
 </urlset>
