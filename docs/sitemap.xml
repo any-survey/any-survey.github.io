@@ -87,6 +87,17 @@
     </url>
     <url>
         <loc>
+            https://any-survey.github.io/ai-mate
+        </loc>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/ai-mate"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/ai-mate"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/ai-mate"/>
+        <lastmod>
+            2026-06-10
+        </lastmod>
+    </url>
+    <url>
+        <loc>
             https://any-survey.github.io/ko/dream-house/result/0
         </loc>
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dream-house/result/0"/>
@@ -576,6 +587,50 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/7"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/7"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/7"/>
+        <lastmod>
+            2026-06-10
+        </lastmod>
+    </url>
+    <url>
+        <loc>
+            https://any-survey.github.io/ko/ai-mate/result/0
+        </loc>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/ai-mate/result/0"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/ai-mate/result/0"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/ai-mate/result/0"/>
+        <lastmod>
+            2026-06-10
+        </lastmod>
+    </url>
+    <url>
+        <loc>
+            https://any-survey.github.io/ko/ai-mate/result/1
+        </loc>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/ai-mate/result/1"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/ai-mate/result/1"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/ai-mate/result/1"/>
+        <lastmod>
+            2026-06-10
+        </lastmod>
+    </url>
+    <url>
+        <loc>
+            https://any-survey.github.io/ko/ai-mate/result/2
+        </loc>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/ai-mate/result/2"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/ai-mate/result/2"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/ai-mate/result/2"/>
+        <lastmod>
+            2026-06-10
+        </lastmod>
+    </url>
+    <url>
+        <loc>
+            https://any-survey.github.io/ko/ai-mate/result/3
+        </loc>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/ai-mate/result/3"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/ai-mate/result/3"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/ai-mate/result/3"/>
         <lastmod>
             2026-06-10
         </lastmod>
