@@ -63,6 +63,10 @@
     "licenses": "MIT",
     "repository": "https://github.com/micromatch/is-glob"
   },
+  "lucide-react@1.17.0": {
+    "licenses": "ISC",
+    "repository": "https://lucide.dev"
+  },
   "nanoid@3.3.12": {
     "licenses": "MIT",
     "repository": "https://github.com/ai/nanoid#readme"
