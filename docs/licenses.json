@@ -35,7 +35,7 @@
     "licenses": "Apache-2.0",
     "repository": "https://swc.rs"
   },
-  "caniuse-lite@1.0.30001797": {
+  "caniuse-lite@1.0.30001799": {
     "licenses": "CC-BY-4.0",
     "repository": "https://github.com/browserslist/caniuse-lite#readme"
   },
@@ -51,7 +51,7 @@
     "licenses": "Apache-2.0",
     "repository": "https://github.com/lovell/detect-libc#readme"
   },
-  "immutable@5.1.6": {
+  "immutable@4.3.8": {
     "licenses": "MIT",
     "repository": "https://immutable-js.com"
   },
@@ -63,7 +63,7 @@
     "licenses": "MIT",
     "repository": "https://github.com/micromatch/is-glob"
   },
-  "lucide-react@1.17.0": {
+  "lucide-react@1.18.0": {
     "licenses": "ISC",
     "repository": "https://lucide.dev"
   },
@@ -99,7 +99,7 @@
     "licenses": "Apache-2.0",
     "repository": "https://playwright.dev"
   },
-  "postcss@8.4.31": {
+  "postcss@8.5.15": {
     "licenses": "MIT",
     "repository": "https://postcss.org/"
   },
@@ -115,7 +115,7 @@
     "licenses": "MIT",
     "repository": "https://github.com/paulmillr/readdirp"
   },
-  "sass@1.100.0": {
+  "sass@1.101.0": {
     "licenses": "MIT",
     "repository": "https://github.com/sass/dart-sass"
   },
@@ -123,7 +123,7 @@
     "licenses": "MIT",
     "repository": "https://react.dev/"
   },
-  "semver@7.8.2": {
+  "semver@7.8.4": {
     "licenses": "ISC",
     "repository": "https://github.com/npm/node-semver#readme"
   },
