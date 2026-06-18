@@ -22,13 +22,19 @@
     </url>
     <url>
         <loc>
-            https://any-survey.github.io/licenses
+            https://any-survey.github.io/privacy
         </loc>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/privacy"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/privacy"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/privacy"/>
     </url>
     <url>
         <loc>
-            https://any-survey.github.io/privacy
+            https://any-survey.github.io/licenses
         </loc>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/licenses"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/licenses"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/licenses"/>
     </url>
     <url>
         <loc>
