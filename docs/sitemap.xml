@@ -666,7 +666,7 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style"/>
         <lastmod>
-            2026-06-17
+            2026-11-07
         </lastmod>
     </url>
     <url>
@@ -677,7 +677,7 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style"/>
         <lastmod>
-            2026-06-17
+            2026-11-07
         </lastmod>
     </url>
     <url>
@@ -688,7 +688,7 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style"/>
         <lastmod>
-            2026-06-17
+            2026-11-07
         </lastmod>
     </url>
     <url>
@@ -722,6 +722,39 @@
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/ai-mate"/>
         <lastmod>
             2026-06-17
+        </lastmod>
+    </url>
+    <url>
+        <loc>
+            https://any-survey.github.io/christmas-gift
+        </loc>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/christmas-gift"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift"/>
+        <lastmod>
+            2026-11-07
+        </lastmod>
+    </url>
+    <url>
+        <loc>
+            https://any-survey.github.io/en/christmas-gift
+        </loc>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/christmas-gift"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift"/>
+        <lastmod>
+            2026-11-07
+        </lastmod>
+    </url>
+    <url>
+        <loc>
+            https://any-survey.github.io/ja/christmas-gift
+        </loc>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/christmas-gift"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift"/>
+        <lastmod>
+            2026-11-07
         </lastmod>
     </url>
     <url>
