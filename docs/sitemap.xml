@@ -4,16 +4,28 @@
         <loc>
             https://any-survey.github.io
         </loc>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io"/>
     </url>
     <url>
         <loc>
             https://any-survey.github.io/en
         </loc>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io"/>
     </url>
     <url>
         <loc>
             https://any-survey.github.io/ja
         </loc>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io"/>
     </url>
     <url>
         <loc>
@@ -22,6 +34,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/privacy"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/privacy"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/privacy"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/privacy"/>
     </url>
     <url>
         <loc>
@@ -30,6 +43,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/licenses"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/licenses"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/licenses"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/licenses"/>
     </url>
     <url>
         <loc>
@@ -38,6 +52,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/dream-house"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dream-house"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/dream-house"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -49,6 +64,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/dream-house"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dream-house"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/dream-house"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -60,6 +76,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/dream-house"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dream-house"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/dream-house"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -71,6 +88,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dream-house/result/0"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house/result/0"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dream-house/result/0"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dream-house/result/0"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -82,6 +100,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dream-house/result/0"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house/result/0"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dream-house/result/0"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dream-house/result/0"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -93,6 +112,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dream-house/result/0"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house/result/0"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dream-house/result/0"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dream-house/result/0"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -104,6 +124,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dream-house/result/1"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house/result/1"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dream-house/result/1"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dream-house/result/1"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -115,6 +136,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dream-house/result/1"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house/result/1"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dream-house/result/1"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dream-house/result/1"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -126,6 +148,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dream-house/result/1"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house/result/1"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dream-house/result/1"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dream-house/result/1"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -137,6 +160,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dream-house/result/2"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house/result/2"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dream-house/result/2"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dream-house/result/2"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -148,6 +172,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dream-house/result/2"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house/result/2"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dream-house/result/2"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dream-house/result/2"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -159,6 +184,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dream-house/result/2"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house/result/2"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dream-house/result/2"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dream-house/result/2"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -170,6 +196,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dream-house/result/3"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house/result/3"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dream-house/result/3"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dream-house/result/3"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -181,6 +208,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dream-house/result/3"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house/result/3"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dream-house/result/3"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dream-house/result/3"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -192,6 +220,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dream-house/result/3"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house/result/3"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dream-house/result/3"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dream-house/result/3"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -203,6 +232,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dream-house/result/4"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house/result/4"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dream-house/result/4"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dream-house/result/4"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -214,6 +244,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dream-house/result/4"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house/result/4"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dream-house/result/4"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dream-house/result/4"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -225,6 +256,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dream-house/result/4"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dream-house/result/4"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dream-house/result/4"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dream-house/result/4"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -236,6 +268,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/cat-mbti"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/cat-mbti"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -247,6 +280,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/cat-mbti"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/cat-mbti"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -258,6 +292,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/cat-mbti"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/cat-mbti"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -269,6 +304,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/0"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/0"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/0"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/0"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -280,6 +316,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/0"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/0"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/0"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/0"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -291,6 +328,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/0"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/0"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/0"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/0"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -302,6 +340,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/1"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/1"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/1"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/1"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -313,6 +352,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/1"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/1"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/1"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/1"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -324,6 +364,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/1"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/1"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/1"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/1"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -335,6 +376,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/2"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/2"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/2"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/2"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -346,6 +388,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/2"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/2"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/2"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/2"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -357,6 +400,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/2"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/2"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/2"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/2"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -368,6 +412,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/3"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/3"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/3"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/3"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -379,6 +424,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/3"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/3"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/3"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/3"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -390,6 +436,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/3"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/3"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/3"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/3"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -401,6 +448,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/4"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/4"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/4"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/4"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -412,6 +460,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/4"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/4"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/4"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/4"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -423,6 +472,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/4"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/4"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/4"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/4"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -434,6 +484,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/5"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/5"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/5"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/5"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -445,6 +496,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/5"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/5"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/5"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/5"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -456,6 +508,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/5"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/5"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/5"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/5"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -467,6 +520,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/6"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/6"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/6"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/6"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -478,6 +532,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/6"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/6"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/6"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/6"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -489,6 +544,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/6"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/6"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/6"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/6"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -500,6 +556,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/7"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/7"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/7"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/7"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -511,6 +568,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/7"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/7"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/7"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/7"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -522,6 +580,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/7"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/7"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/7"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/7"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -533,6 +592,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/8"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/8"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/8"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/8"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -544,6 +604,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/8"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/8"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/8"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/8"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -555,6 +616,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/8"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/8"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/8"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/8"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -566,6 +628,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/9"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/9"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/9"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/9"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -577,6 +640,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/9"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/9"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/9"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/9"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -588,6 +652,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/9"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/9"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/9"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/9"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -599,6 +664,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/10"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/10"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/10"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/10"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -610,6 +676,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/10"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/10"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/10"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/10"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -621,6 +688,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/10"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/10"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/10"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/10"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -632,6 +700,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/11"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/11"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/11"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/11"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -643,6 +712,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/11"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/11"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/11"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/11"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -654,6 +724,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/11"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/11"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/11"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/11"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -665,6 +736,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/12"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/12"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/12"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/12"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -676,6 +748,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/12"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/12"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/12"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/12"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -687,6 +760,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/12"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/12"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/12"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/12"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -698,6 +772,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/13"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/13"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/13"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/13"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -709,6 +784,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/13"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/13"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/13"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/13"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -720,6 +796,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/13"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/13"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/13"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/13"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -731,6 +808,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/14"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/14"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/14"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/14"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -742,6 +820,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/14"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/14"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/14"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/14"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -753,6 +832,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/14"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/14"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/14"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/14"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -764,6 +844,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/15"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/15"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/15"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/15"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -775,6 +856,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/15"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/15"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/15"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/15"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -786,6 +868,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/cat-mbti/result/15"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/cat-mbti/result/15"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/cat-mbti/result/15"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/cat-mbti/result/15"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -797,6 +880,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/dog-mbti"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/dog-mbti"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -808,6 +892,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/dog-mbti"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/dog-mbti"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -819,6 +904,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/dog-mbti"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/dog-mbti"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -830,6 +916,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/0"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/0"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/0"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/0"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -841,6 +928,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/0"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/0"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/0"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/0"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -852,6 +940,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/0"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/0"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/0"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/0"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -863,6 +952,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/1"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/1"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/1"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/1"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -874,6 +964,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/1"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/1"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/1"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/1"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -885,6 +976,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/1"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/1"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/1"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/1"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -896,6 +988,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/2"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/2"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/2"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/2"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -907,6 +1000,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/2"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/2"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/2"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/2"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -918,6 +1012,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/2"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/2"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/2"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/2"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -929,6 +1024,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/3"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/3"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/3"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/3"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -940,6 +1036,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/3"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/3"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/3"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/3"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -951,6 +1048,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/3"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/3"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/3"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/3"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -962,6 +1060,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/4"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/4"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/4"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/4"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -973,6 +1072,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/4"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/4"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/4"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/4"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -984,6 +1084,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/4"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/4"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/4"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/4"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -995,6 +1096,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/5"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/5"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/5"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/5"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1006,6 +1108,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/5"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/5"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/5"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/5"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1017,6 +1120,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/5"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/5"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/5"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/5"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1028,6 +1132,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/6"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/6"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/6"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/6"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1039,6 +1144,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/6"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/6"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/6"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/6"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1050,6 +1156,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/6"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/6"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/6"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/6"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1061,6 +1168,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/7"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/7"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/7"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/7"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1072,6 +1180,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/7"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/7"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/7"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/7"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1083,6 +1192,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/7"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/7"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/7"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/7"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1094,6 +1204,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/8"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/8"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/8"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/8"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1105,6 +1216,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/8"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/8"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/8"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/8"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1116,6 +1228,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/8"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/8"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/8"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/8"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1127,6 +1240,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/9"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/9"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/9"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/9"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1138,6 +1252,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/9"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/9"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/9"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/9"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1149,6 +1264,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/9"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/9"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/9"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/9"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1160,6 +1276,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/10"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/10"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/10"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/10"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1171,6 +1288,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/10"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/10"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/10"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/10"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1182,6 +1300,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/10"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/10"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/10"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/10"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1193,6 +1312,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/11"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/11"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/11"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/11"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1204,6 +1324,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/11"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/11"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/11"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/11"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1215,6 +1336,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/11"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/11"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/11"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/11"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1226,6 +1348,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/12"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/12"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/12"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/12"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1237,6 +1360,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/12"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/12"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/12"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/12"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1248,6 +1372,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/12"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/12"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/12"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/12"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1259,6 +1384,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/13"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/13"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/13"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/13"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1270,6 +1396,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/13"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/13"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/13"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/13"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1281,6 +1408,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/13"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/13"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/13"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/13"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1292,6 +1420,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/14"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/14"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/14"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/14"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1303,6 +1432,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/14"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/14"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/14"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/14"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1314,6 +1444,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/14"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/14"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/14"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/14"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1325,6 +1456,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/15"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/15"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/15"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/15"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1336,6 +1468,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/15"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/15"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/15"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/15"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1347,6 +1480,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/dog-mbti/result/15"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/dog-mbti/result/15"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/dog-mbti/result/15"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/dog-mbti/result/15"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1358,6 +1492,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/spending-style"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/spending-style"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1369,6 +1504,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/spending-style"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/spending-style"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1380,6 +1516,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/spending-style"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/spending-style"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1391,6 +1528,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/0"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/0"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/0"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/spending-style/result/0"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1402,6 +1540,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/0"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/0"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/0"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/spending-style/result/0"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1413,6 +1552,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/0"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/0"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/0"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/spending-style/result/0"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1424,6 +1564,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/1"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/1"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/1"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/spending-style/result/1"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1435,6 +1576,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/1"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/1"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/1"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/spending-style/result/1"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1446,6 +1588,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/1"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/1"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/1"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/spending-style/result/1"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1457,6 +1600,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/2"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/2"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/2"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/spending-style/result/2"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1468,6 +1612,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/2"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/2"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/2"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/spending-style/result/2"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1479,6 +1624,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/2"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/2"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/2"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/spending-style/result/2"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1490,6 +1636,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/3"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/3"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/3"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/spending-style/result/3"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1501,6 +1648,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/3"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/3"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/3"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/spending-style/result/3"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1512,6 +1660,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/3"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/3"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/3"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/spending-style/result/3"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1523,6 +1672,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/4"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/4"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/4"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/spending-style/result/4"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1534,6 +1684,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/4"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/4"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/4"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/spending-style/result/4"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1545,6 +1696,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/4"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/4"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/4"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/spending-style/result/4"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1556,6 +1708,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/5"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/5"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/5"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/spending-style/result/5"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1567,6 +1720,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/5"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/5"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/5"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/spending-style/result/5"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1578,6 +1732,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/5"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/5"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/5"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/spending-style/result/5"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1589,6 +1744,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/6"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/6"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/6"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/spending-style/result/6"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1600,6 +1756,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/6"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/6"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/6"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/spending-style/result/6"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1611,6 +1768,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/6"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/6"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/6"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/spending-style/result/6"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1622,6 +1780,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/7"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/7"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/7"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/spending-style/result/7"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1633,6 +1792,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/7"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/7"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/7"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/spending-style/result/7"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1644,6 +1804,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/spending-style/result/7"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/spending-style/result/7"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/spending-style/result/7"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/spending-style/result/7"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1655,6 +1816,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ai-mate"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/ai-mate"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/ai-mate"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ai-mate"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1666,6 +1828,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ai-mate"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/ai-mate"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/ai-mate"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ai-mate"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1677,6 +1840,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ai-mate"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/ai-mate"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/ai-mate"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ai-mate"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1688,6 +1852,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/ai-mate/result/0"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/ai-mate/result/0"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/ai-mate/result/0"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/ai-mate/result/0"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1699,6 +1864,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/ai-mate/result/0"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/ai-mate/result/0"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/ai-mate/result/0"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/ai-mate/result/0"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1710,6 +1876,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/ai-mate/result/0"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/ai-mate/result/0"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/ai-mate/result/0"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/ai-mate/result/0"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1721,6 +1888,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/ai-mate/result/1"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/ai-mate/result/1"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/ai-mate/result/1"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/ai-mate/result/1"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1732,6 +1900,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/ai-mate/result/1"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/ai-mate/result/1"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/ai-mate/result/1"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/ai-mate/result/1"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1743,6 +1912,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/ai-mate/result/1"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/ai-mate/result/1"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/ai-mate/result/1"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/ai-mate/result/1"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1754,6 +1924,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/ai-mate/result/2"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/ai-mate/result/2"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/ai-mate/result/2"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/ai-mate/result/2"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1765,6 +1936,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/ai-mate/result/2"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/ai-mate/result/2"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/ai-mate/result/2"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/ai-mate/result/2"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1776,6 +1948,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/ai-mate/result/2"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/ai-mate/result/2"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/ai-mate/result/2"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/ai-mate/result/2"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1787,6 +1960,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/ai-mate/result/3"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/ai-mate/result/3"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/ai-mate/result/3"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/ai-mate/result/3"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1798,6 +1972,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/ai-mate/result/3"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/ai-mate/result/3"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/ai-mate/result/3"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/ai-mate/result/3"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1809,6 +1984,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/ai-mate/result/3"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/ai-mate/result/3"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/ai-mate/result/3"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/ai-mate/result/3"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1820,6 +1996,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/christmas-gift"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/christmas-gift"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1831,6 +2008,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/christmas-gift"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/christmas-gift"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1842,6 +2020,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/christmas-gift"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/christmas-gift"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1853,6 +2032,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/christmas-gift/result/0"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift/result/0"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift/result/0"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/christmas-gift/result/0"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1864,6 +2044,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/christmas-gift/result/0"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift/result/0"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift/result/0"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/christmas-gift/result/0"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1875,6 +2056,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/christmas-gift/result/0"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift/result/0"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift/result/0"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/christmas-gift/result/0"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1886,6 +2068,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/christmas-gift/result/1"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift/result/1"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift/result/1"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/christmas-gift/result/1"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1897,6 +2080,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/christmas-gift/result/1"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift/result/1"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift/result/1"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/christmas-gift/result/1"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1908,6 +2092,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/christmas-gift/result/1"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift/result/1"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift/result/1"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/christmas-gift/result/1"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1919,6 +2104,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/christmas-gift/result/2"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift/result/2"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift/result/2"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/christmas-gift/result/2"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1930,6 +2116,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/christmas-gift/result/2"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift/result/2"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift/result/2"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/christmas-gift/result/2"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1941,6 +2128,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/christmas-gift/result/2"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift/result/2"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift/result/2"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/christmas-gift/result/2"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1952,6 +2140,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/christmas-gift/result/3"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift/result/3"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift/result/3"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/christmas-gift/result/3"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1963,6 +2152,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/christmas-gift/result/3"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift/result/3"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift/result/3"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/christmas-gift/result/3"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1974,6 +2164,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/christmas-gift/result/3"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift/result/3"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift/result/3"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/christmas-gift/result/3"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1985,6 +2176,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/christmas-gift/result/4"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift/result/4"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift/result/4"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/christmas-gift/result/4"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -1996,6 +2188,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/christmas-gift/result/4"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift/result/4"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift/result/4"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/christmas-gift/result/4"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2007,6 +2200,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/christmas-gift/result/4"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift/result/4"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift/result/4"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/christmas-gift/result/4"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2018,6 +2212,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/christmas-gift/result/5"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift/result/5"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift/result/5"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/christmas-gift/result/5"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2029,6 +2224,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/christmas-gift/result/5"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift/result/5"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift/result/5"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/christmas-gift/result/5"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2040,6 +2236,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/christmas-gift/result/5"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift/result/5"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift/result/5"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/christmas-gift/result/5"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2051,6 +2248,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/christmas-gift/result/6"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift/result/6"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift/result/6"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/christmas-gift/result/6"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2062,6 +2260,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/christmas-gift/result/6"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift/result/6"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift/result/6"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/christmas-gift/result/6"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2073,6 +2272,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/christmas-gift/result/6"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift/result/6"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift/result/6"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/christmas-gift/result/6"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2084,6 +2284,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/christmas-gift/result/7"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift/result/7"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift/result/7"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/christmas-gift/result/7"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2095,6 +2296,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/christmas-gift/result/7"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift/result/7"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift/result/7"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/christmas-gift/result/7"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2106,6 +2308,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/christmas-gift/result/7"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/christmas-gift/result/7"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/christmas-gift/result/7"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/christmas-gift/result/7"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2117,6 +2320,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/zero-waste"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/zero-waste"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/zero-waste"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/zero-waste"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2128,6 +2332,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/zero-waste"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/zero-waste"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/zero-waste"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/zero-waste"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2139,6 +2344,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/zero-waste"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/zero-waste"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/zero-waste"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/zero-waste"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2150,6 +2356,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/zero-waste/result/0"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/zero-waste/result/0"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/zero-waste/result/0"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/zero-waste/result/0"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2161,6 +2368,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/zero-waste/result/0"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/zero-waste/result/0"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/zero-waste/result/0"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/zero-waste/result/0"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2172,6 +2380,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/zero-waste/result/0"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/zero-waste/result/0"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/zero-waste/result/0"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/zero-waste/result/0"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2183,6 +2392,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/zero-waste/result/1"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/zero-waste/result/1"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/zero-waste/result/1"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/zero-waste/result/1"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2194,6 +2404,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/zero-waste/result/1"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/zero-waste/result/1"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/zero-waste/result/1"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/zero-waste/result/1"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2205,6 +2416,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/zero-waste/result/1"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/zero-waste/result/1"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/zero-waste/result/1"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/zero-waste/result/1"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2216,6 +2428,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/zero-waste/result/2"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/zero-waste/result/2"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/zero-waste/result/2"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/zero-waste/result/2"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2227,6 +2440,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/zero-waste/result/2"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/zero-waste/result/2"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/zero-waste/result/2"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/zero-waste/result/2"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2238,6 +2452,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/zero-waste/result/2"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/zero-waste/result/2"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/zero-waste/result/2"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/zero-waste/result/2"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2249,6 +2464,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/zero-waste/result/3"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/zero-waste/result/3"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/zero-waste/result/3"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/zero-waste/result/3"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2260,6 +2476,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/zero-waste/result/3"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/zero-waste/result/3"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/zero-waste/result/3"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/zero-waste/result/3"/>
         <lastmod>
             2026-11-08
         </lastmod>
@@ -2271,6 +2488,7 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://any-survey.github.io/ko/zero-waste/result/3"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://any-survey.github.io/en/zero-waste/result/3"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://any-survey.github.io/ja/zero-waste/result/3"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://any-survey.github.io/ko/zero-waste/result/3"/>
         <lastmod>
             2026-11-08
         </lastmod>
